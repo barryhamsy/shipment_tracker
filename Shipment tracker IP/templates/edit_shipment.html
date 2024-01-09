@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Shipment</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        .btn-primary {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Edit Shipment</h2>
+        <form action="{{ url_for('update_shipment', id=shipment[0]) }}" method="post" class="row">
+            <div class="form-group">
+                <label for="so">SO:</label>
+                <input type="text" name="so" class="form-control" value="{{ shipment[1] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="dn">DN:</label>
+                <input type="text" name="dn" class="form-control" value="{{ shipment[2] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="customer_name_and_address">Customer Name and Address:</label>
+                <input type="text" name="customer_name_and_address" class="form-control" value="{{ shipment[3] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Phone:</label>
+                <input type="text" name="phone" class="form-control" value="{{ shipment[4] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" name="name" class="form-control" value="{{ shipment[5] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="destination">Destination:</label>
+                <select name="destination" class="form-control">
+                    <option value="Miri" {% if shipment[6] == 'Miri' %} selected {% endif %}>Miri</option>
+                    <option value="Bintulu" {% if shipment[6] == 'Bintulu' %} selected {% endif %}>Bintulu</option>
+                    <option value="Kuching" {% if shipment[6] == 'Kuching' %} selected {% endif %}>Kuching</option>
+                    <option value="Sibu" {% if shipment[6] == 'Sibu' %} selected {% endif %}>Sibu</option>
+                    <option value="Kota Kinabalu" {% if shipment[6] == 'Kota Kinabalu' %} selected {% endif %}>Kota Kinabalu</option>
+                    <option value="Sandakan" {% if shipment[6] == 'Sandakan' %} selected {% endif %}>Sandakan</option>
+                    <option value="Brunei" {% if shipment[6] == 'Brunei' %} selected {% endif %}>Brunei</option>
+                    <option value="Labuan" {% if shipment[6] == 'Labuan' %} selected {% endif %}>Labuan</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="etd">ETD:</label>
+                <input type="date" name="etd" class="form-control" value="{{ shipment[7] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="eta">ETA:</label>
+                <input type="date" name="eta" class="form-control" value="{{ calculate_eta(shipment[7], shipment[6]) | default('N/A') }}" readonly>
+            </div>
+            <div class="form-group">
+                <label for="logistic_partner">Logistic Partner:</label>
+                <select name="logistic_partner" class="form-control">
+                    <option value="Leesing Logistics" {% if shipment[9] == 'Leesing Logistics' %} selected {% endif %}>Leesing Logistics</option>
+                    <option value="AT Dunia" {% if shipment[9] == 'AT Dunia' %} selected {% endif %}>AT Dunia</option>
+                    <option value="TD Cargo" {% if shipment[9] == 'TD Cargo' %} selected {% endif %}>TD Cargo</option>
+                    <option value="Tuong Aik Miri" {% if shipment[9] == 'Tuong Aik Miri' %} selected {% endif %}>Tuong Aik Miri</option>
+                    <option value="Self Collect" {% if shipment[9] == 'Self Collect' %} selected {% endif %}>Self Collect</option>
+                    <option value="Neptune" {% if shipment[9] == 'Neptune' %} selected {% endif %}>Neptune</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="booking_date">Booking Date</label>
+                <input type="date" name="booking_date" class="form-control" value="{{ shipment[10] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="packing">Packing:</label>
+                <input type="text" name="packing" class="form-control" value="{{ shipment[11] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="chromascan">Chromascan:</label>
+                <input type="text" name="chromascan" class="form-control" value="{{ shipment[12] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="weight">Weight:</label>
+                <input type="text" name="weight" class="form-control" value="{{ shipment[13] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="volume">Volume:</label>
+                <input type="text" name="volume" class="form-control" value="{{ shipment[14] }}" required>
+            </div>
+            <div class="form-group">
+                <label for="delivery_status">Delivery Status:</label>
+                <select name="delivery_status" class="form-control">
+                    <option value="Picking" {% if shipment[15] == 'Picking' %} selected {% endif %}>Picking</option>
+                    <option value="Booked" {% if shipment[15] == 'Booked' %} selected {% endif %}>Booked</option>
+                    <option value="In Transit" {% if shipment[15] == 'In Transit' %} selected {% endif %}>In Transit</option>
+                    <option value="Delivered" {% if shipment[15] == 'Delivered' %} selected {% endif %}>Delivered</option>
+                    <option value="Fail" {% if shipment[15] == 'Fail' %} selected {% endif %}>Fail</option>
+                    <option value="Rejected" {% if shipment[15] == 'Rejected' %} selected {% endif %}>Rejected</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Update Shipment</button>
+        </form>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></sc="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></sc

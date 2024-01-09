@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shipment Tracking</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+    <!-- Add custom styles for smaller font size -->
+    <style>
+        body {
+            font-size: 14px; /* Adjust the font size as needed */
+        }
+
+        table {
+            font-size: 14px; /* Adjust the font size for the table content */
+        }
+        
+        body {
+            scrollbar-width: thin;
+            scrollbar-color: #adb5bd #f8f9fa;
+            max-width: 200%; /* Set the maximum width to 100% of the viewport */
+            margin: 0 auto; /* Center the content */
+        }
+
+        body::-webkit-scrollbar {
+            width: 12px;
+        }
+
+        body::-webkit-scrollbar-thumb {
+            background-color: #adb5bd;
+            border-radius: 10px;
+            border: 3px solid #f8f9fa;
+        }
+
+        body::-webkit-scrollbar-track {
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 2000px; /* Set the maximum width of your container */
+            
+        }             
+        .table-responsive thead th {
+          position: -webkit-sticky;
+          position: sticky;
+          top: 0;
+          background-color: #0F70D1 !important;;
+          z-index: 100; 
+        }
+    </style>
+</head>
+<body class="d-flex justify-content-center align-items-center vh-200">
+    <div class="container mt-4">
+        <h1 class="mb-4 text-center">Shipment Tracking</h1>
+        <form action="{{ url_for('search_shipment') }}" method="post" class="mb-4">
+            <div class="input-group">
+                <input type="text" name="search_term" class="form-control" placeholder="Search shipment...">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+
+        <div class="row mb-4">
+            <div class="col-12 col-md-6">
+                <button type="button" class="btn btn-primary btn-block" data-toggle="modal" data-target="#addShipmentModal">
+                    Add New Shipment
+                </button>
+            </div>
+            <div class="col-12 col-md-6">
+                <button onclick="exportToExcel()" class="btn btn-success btn-block">Export to Excel</button>
+            </div>
+        </div>
+        
+        <a href="{{ url_for('shipment_list') }}" class="btn btn-info btn-block">Refresh</a>
+        <a href="{{ url_for('index') }}" class="btn btn-info btn-block">Back to Home Page</a>
+        
+        <!-- Add the following styles to make the table scrollable -->
+<style>
+    .table-container {
+        max-height: 500px;
+        overflow-y: auto;
+    }
+</style>
+        <!-- Center the table using Bootstrap classes -->
+        <div class="table-responsive table-container">
+            <table class="table table-bordered">
+                <thead class="sticky-top">
+                    <tr>
+                        <th>SO</th>
+                        <th>DN</th>
+                        <th>Customer Name and Address</th>
+                        <th>Phone</th>
+                        <th>Name</th>
+                        <th>Destination</th>
+                        <th>Booking Date</th>
+                        <th>ETD</th>
+                        <th>ETA</th>
+                        <th>Logistic Partner</th>
+                        <th>Packing</th>
+                        <th>Chromascan</th>
+                        <th>Weight</th>
+                        <th>Volume</th>
+                        <th>Delivery Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for shipment in shipments %}
+                        <tr>
+                            <td>{{ shipment[1] }}</td> <!--SO-->
+                            <td>{{ shipment[2] }}</td> <!--DN-->
+                            <td>{{ shipment[3] }}</td> <!--CUSTOMER-->
+                            <td>{{ shipment[4] }}</td> <!--PHONE-->
+                            <td>{{ shipment[5] }}</td> <!--NAME-->
+                            <td>{{ shipment[6] }}</td> <!--DESTINATIONS-->
+                            <td>{{ shipment[10] }}</td> <!--BOOKING DATE-->
+                            <td>{{ shipment[7] }}</td> <!--ETD-->
+                            <td>{{ shipment[8] }}</td> <!--ETA-->
+                            <td>{{ shipment[9] }}</td> <!--LOGISTIC-->
+                            <td>{{ shipment[11] }}</td> <!--PACKING-->
+                            <td>{{ shipment[12] }}</td> <!--CHROMASCAN-->
+                            <td>{{ shipment[13] }}</td> <!--WEIGHT-->
+                            <td>{{ shipment[14] }}</td> <!--VOLUME-->
+                            <td>{{ shipment[15] }}</td> <!--STATUS-->
+                            <td>
+                                <a href="{{ url_for('edit_shipment', id=shipment[0]) }}" class="btn btn-info btn-sm">Edit</a>
+                                <a href="#" class="btn btn-danger btn-sm btn-delete" data-toggle="modal" data-target="#deleteModal{{ shipment[0] }}">Delete</a>
+                             <!-- Delete Modal -->
+                            <div class="modal fade" id="deleteModal{{ shipment[0] }}" tabindex="-1" role="dialog" aria-labelledby="deleteModalLabel" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="deleteModalLabel">Confirm Deletion</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            Are you sure you want to delete this shipment?
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                                            <a href="{{ url_for('delete_shipment', id=shipment[0]) }}" class="btn btn-danger">Delete</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+   <!-- Back to Home Page button -->
+        <a href="{{ url_for('index') }}" class="btn btn-info btn-block btn-back mt-2">Back to Home Page</a>
+        <!-- Modal -->
+        <div class="modal fade" id="addShipmentModal" tabindex="-1" role="dialog" aria-labelledby="addShipmentModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="addShipmentModalLabel">Add New Shipment</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form action="/add_shipment" method="post">
+                            <div class="form-row">
+                                <div class="form-group col-md-2">
+                                    <label for="so">SO</label>
+                                    <input type="text" name="so" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-2">
+                                    <label for="dn">DN</label>
+                                    <input type="text" name="dn" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-2">
+                                    <label for="customer_name_and_address">Customer Name & Address</label>
+                                    <input type="text" name="customer_name_and_address" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-2">
+                                    <label for="phone">Phone</label>
+                                    <input type="text" name="phone" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-2">
+                                    <label for="name">Name</label>
+                                    <input type="text" name="name" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-2">
+                                    <label for="destination">Destination</label>
+                                    <select name="destination" class="form-control" required>
+                                        <option value="Miri">Miri</option>
+                                        <option value="Bintulu">Bintulu</option>
+                                        <option value="Kuching">Kuching</option>
+                                        <option value="Sibu">Sibu</option>
+                                        <option value="Kota Kinabalu">Kota Kinabalu</option>
+                                        <option value="Sandakan">Sandakan</option>
+                                        <option value="Brunei">Brunei</option>
+                                        <option value="Labuan">Labuan</option>
+                                        <option value="Self Collect">Self Collect</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-3">
+                                    <label for="etd">ETD</label>
+                                    <input type="date" name="etd" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="eta">ETA</label>
+                                    <input type="text" name="eta" class="form-control" readonly>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="logistic_partner">Logistic Partner</label>
+                                    <select name="logistic_partner" class="form-control" required>
+                                        <option value="Leesing Logistics">Leesing Logistics</option>
+                                        <option value="AT Dunia">AT Dunia</option>
+                                        <option value="Neptune">Neptune</option>
+                                        <option value="TD Cargo">TD Cargo</option>
+                                        <option value="Tuong Aik Miri">Tuong Aik Miri</option>
+                                        <option value="Self Collect">Self Collect</option>
+                                    </select>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="delivery_status">Delivery Status</label>
+                                    <select name="delivery_status" class="form-control" required>
+                                        <option value="Picking">Picking</option>
+                                        <option value="Booked">Booked</option>
+                                        <option value="In Transit">In Transit</option>
+                                        <option value="Delivered">Delivered</option>
+                                        <option value="Fail">Fail</option>
+                                        <option value="Rejected">Rejected</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-3">
+                                    <label for="booking_date">Booking Date</label>
+                                    <input type="date" name="booking_date" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="packing">Packing</label>
+                                    <input type="text" name="packing" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="chromascan">Chromascan</label>
+                                    <input type="text" name="chromascan" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="weight">Weight</label>
+                                    <input type="text" name="weight" class="form-control" required>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="volume">Volume</label>
+                                    <input type="text" name="volume" class="form-control" required>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Add Shipment</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            function exportToExcel() {
+                window.location.href = '/export_excel';
+            }
+        </script>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>

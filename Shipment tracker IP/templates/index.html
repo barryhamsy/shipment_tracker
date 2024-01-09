@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shipment List</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<style>
+    body {
+        font-size: 14px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    body {
+        scrollbar-width: thin;
+        scrollbar-color: #adb5bd #f8f9fa;
+        max-width: 200%;
+        margin: 0 auto;
+    }
+
+    body::-webkit-scrollbar {
+        width: 12px;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background-color: #adb5bd;
+        border-radius: 10px;
+        border: 3px solid #f8f9fa;
+    }
+
+    body::-webkit-scrollbar-track {
+        background-color: #034a91;
+    }
+
+    .container {
+        max-width: 2000px;
+            
+    .pincode-popup {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 20px;
+        background-color: #ffffff;
+        border: 1px solid #ced4da;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+    }  
+              
+    .table-responsive thead th {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        background-color: #0F70D1 !important;;
+        z-index: 100; 
+    }
+</style>
+
+<body class="d-flex justify-content-center align-items-center vh-200">
+    <div class="container mt-4">
+        <h1 class="mb-4 text-center">Shipment Tracking</h1>
+        
+        <!-- Admin button -->
+        <div class="text-right mb-3">
+            <button class="btn btn-info mt-2" onclick="showPincodePopup()">Admin</button>
+        </div>
+    <div id="pincodePopup" class="pincode-popup">
+        <label for="pincode">Enter Pincode:</label>
+        <input type="password" id="pincode" class="form-control" />
+        <button class="btn btn-primary mt-2" onclick="validatePincode()">Submit</button>
+    </div>
+        <!-- Search input and button -->
+        <div class="form-group">
+            <input type="text" id="searchTerm" class="form-control" placeholder="Search...">
+            <button class="btn btn-primary mt-2" onclick="searchShipment()">Search</button>
+            <button class="btn btn-success mt-2" onclick="refreshShipmentList()">Refresh</button>
+        </div>
+        
+<!-- Add the following styles to make the table scrollable -->
+<style>
+    .table-container {
+        max-height: 500px;
+        overflow-y: auto;
+    }
+</style>
+
+<!-- Update the table container div with the new class -->
+<div class="table-responsive table-container">
+    <table class="table table-bordered">
+                <thead class="sticky-top">
+                    <tr>
+                        <th>SO</th>
+                        <th>DN</th>
+                        <th>Customer Name and Address</th>
+                        <th>Phone</th>
+                        <th>Name</th>
+                        <th>Destination</th>
+                        <th>Booking Date</th>
+                        <th>ETD</th>
+                        <th>ETA</th>
+                        <th>Logistic Partner</th>
+                        <th>Packing</th>
+                        <th>Chromascan</th>
+                        <th>Weight</th>
+                        <th>Volume</th>
+                        <th>Delivery Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for shipment in shipments %}
+                    <tr>
+                        <td>{{ shipment[1] }}</td>
+                        <td>{{ shipment[2] }}</td>
+                        <td>{{ shipment[3] }}</td>
+                        <td>{{ shipment[4] }}</td>
+                        <td>{{ shipment[5] }}</td>
+                        <td>{{ shipment[6] }}</td>
+                        <td>{{ shipment[10] }}</td>
+                        <td>{{ shipment[7] }}</td>
+                        <td>{{ shipment[8] }}</td>
+                        <td>{{ shipment[9] }}</td>
+                        <td>{{ shipment[11] }}</td>
+                        <td>{{ shipment[12] }}</td>
+                        <td>{{ shipment[13] }}</td>
+                        <td>{{ shipment[14] }}</td>
+                        <td>{{ shipment[15] }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <!-- Search and refresh logic script -->
+    <script>
+        function searchShipment() {
+            // Get the search term from the input field
+            var searchTerm = document.getElementById('searchTerm').value.toLowerCase();
+
+            // Get all rows in the table
+            var rows = document.querySelectorAll('tbody tr');
+
+            // Loop through each row and check if it contains the search term
+            rows.forEach(function (row) {
+                // Get the text content of each cell in the row
+                var cells = row.getElementsByTagName('td');
+                var rowText = '';
+
+                for (var i = 0; i < cells.length; i++) {
+                    rowText += cells[i].textContent.toLowerCase() + ' ';
+                }
+
+                // Check if the row text contains the search term
+                if (rowText.includes(searchTerm)) {
+                    // If yes, show the row
+                    row.style.display = '';
+                } else {
+                    // If not, hide the row
+                    row.style.display = 'none';
+                }
+            });
+        }
+
+        function refreshShipmentList() {
+            // Reload the page to refresh the shipment list
+            location.reload();
+        }
+        
+        function showPincodePopup() {
+            // Show the pincode popup
+            document.getElementById('pincodePopup').style.display = 'block';
+        }
+
+        function validatePincode() {
+            // Add your pincode validation logic here
+            var pincode = document.getElementById('pincode').value;
+
+            // For demonstration purposes, checking if pincode is '1234'
+            if (pincode === '1234') {
+                // Hide the pincode popup if the pincode is correct
+                document.getElementById('pincodePopup').style.display = 'none';
+                // Add logic to redirect to the admin page here
+                window.location.href = 'shipment_list';
+            } else {
+                // Display an error message or take appropriate action for incorrect pincode
+                alert('Incorrect Pincode. Please try again.');
+            }
+        }
+    </script>
+</body>
+
+</html>
