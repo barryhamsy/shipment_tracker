@@ -41,7 +41,7 @@
     "username": "Aquino",
     "password_hash": "scrypt:32768:8:1$ZEEJQSWkNFAwI8rF$9971dda918f0118e34a9053e0ba8eb46b7c9fe39d1ad63b1b8ec984bf48e6674ab0c52224fd878d8a0a622c2db41d19994c1982b3df27fb1a08235b151738a02",
     "role": "member",
-    "active": true,
+    "active": false,
     "created_at": "2026-09-08 02:42:14"
   }
 ]
