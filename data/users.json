@@ -41,7 +41,7 @@
     "username": "Aquino",
     "password_hash": "pbkdf2:sha256:260000$pE3S5DBqItHNSTGH$26979a0d83e9c822e02099a3d8728a67297539110e68c8d5f8779d6d64e3a184",
     "role": "driver",
-    "active": false,
+    "active": true,
     "created_at": "2026-09-08 02:42:14"
   },
   {
