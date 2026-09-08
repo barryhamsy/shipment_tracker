@@ -30,7 +30,7 @@
     "id": 4,
     "company_id": 4,
     "username": "akzonobel",
-    "password_hash": "pbkdf2:sha256:260000$hOe0ZwP9b0bw03VQ$c69cab026959049d85a21fde40f03db46a8465125d99ac9bc130c42f91b1796e",
+    "password_hash": "pbkdf2:sha256:260000$eS4vpxKel5JwnBgX$c2976cde10d03645e0a6bc48c3a5fe3788ffccc2e82183381e67582999736f7b",
     "role": "owner",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
