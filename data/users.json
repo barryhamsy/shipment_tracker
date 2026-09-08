@@ -88,5 +88,14 @@
     "role": "member",
     "active": true,
     "created_at": "2026-09-08 16:51:12"
+  },
+  {
+    "id": 12,
+    "company_id": 3,
+    "username": "catherine",
+    "password_hash": "pbkdf2:sha256:260000$c6WnygKFiII3M8Ga$b4c74ea864dd096f2830c67215f338cc6a982ee4fb5106390109fd6c07ce6069",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-08 16:53:59"
   }
 ]
