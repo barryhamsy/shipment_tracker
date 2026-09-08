@@ -106,5 +106,14 @@
     "role": "picker",
     "active": true,
     "created_at": "2026-09-08 16:55:04"
+  },
+  {
+    "id": 14,
+    "company_id": 3,
+    "username": "carlos",
+    "password_hash": "pbkdf2:sha256:260000$ZmwlSJbwDJCkRqyM$1fc8ce8eafb1c5d7f0124994df72d016dc437a85ca4cf0d4777413023a0f898d",
+    "role": "picker",
+    "active": true,
+    "created_at": "2026-09-08 16:55:24"
   }
 ]
