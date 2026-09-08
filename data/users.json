@@ -79,5 +79,14 @@
     "role": "member",
     "active": true,
     "created_at": "2026-09-08 16:50:53"
+  },
+  {
+    "id": 11,
+    "company_id": 4,
+    "username": "nurhayati",
+    "password_hash": "pbkdf2:sha256:260000$HhimgfCFABBMCXSJ$670d5e1577f41475e22f0b43d1bd2e5d149d5be9808c3964b14abe1707b25cf2",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-08 16:51:12"
   }
 ]
