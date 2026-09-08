@@ -41,7 +41,25 @@
     "username": "Aquino",
     "password_hash": "scrypt:32768:8:1$ZEEJQSWkNFAwI8rF$9971dda918f0118e34a9053e0ba8eb46b7c9fe39d1ad63b1b8ec984bf48e6674ab0c52224fd878d8a0a622c2db41d19994c1982b3df27fb1a08235b151738a02",
     "role": "member",
-    "active": true,
+    "active": false,
     "created_at": "2026-09-08 02:42:14"
+  },
+  {
+    "id": 6,
+    "company_id": 3,
+    "username": "Aquino1",
+    "password_hash": "scrypt:32768:8:1$intPWyV6ycSIrycS$96bc8459da8b0e29f421aa3e083dce932cfb8eb4087c4cafe9f92c81d79af574b3f9f5c6e319373a44df6ae7304aba965125ea5e1ea3771e25a7b11383de30fe",
+    "role": "driver",
+    "active": true,
+    "created_at": "2026-09-08 08:37:14"
+  },
+  {
+    "id": 7,
+    "company_id": 3,
+    "username": "Benedict",
+    "password_hash": "scrypt:32768:8:1$t7mC7pCbTG17Ox0u$656d165f6164a45723a9d6bdc4cf569e93d60920439a25ac6c30d94a4ab3905cb23fd68e0c455f43b204d66238e84585d5e82bb4a74fa75a2f43f64091ae157f",
+    "role": "picker",
+    "active": true,
+    "created_at": "2026-09-08 09:24:15"
   }
 ]
