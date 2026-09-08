@@ -50,5 +50,18 @@
     "blocked_origin": null,
     "active": true,
     "created_at": "2026-09-08 02:22:56"
+  },
+  {
+    "id": 5,
+    "name": "Aquino",
+    "code": "8812",
+    "type": "transporter",
+    "transporter_code": "ATDUNIA",
+    "restricted_edit": true,
+    "extra_visible_transporter": null,
+    "extra_visible_origin": null,
+    "blocked_origin": null,
+    "active": true,
+    "created_at": "2026-09-08 02:41:30"
   }
 ]
