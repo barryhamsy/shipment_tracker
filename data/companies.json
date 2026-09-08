@@ -22,7 +22,7 @@
     "extra_visible_transporter": "SELF COLLECT",
     "extra_visible_origin": "LABUAN",
     "blocked_origin": "MIRI",
-    "active": false,
+    "active": true,
     "created_at": "2026-09-08 02:22:56"
   },
   {
