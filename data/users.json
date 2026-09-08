@@ -61,5 +61,14 @@
     "role": "member",
     "active": true,
     "created_at": "2026-09-08 16:49:57"
+  },
+  {
+    "id": 9,
+    "company_id": 4,
+    "username": "nurainshukor",
+    "password_hash": "pbkdf2:sha256:260000$rsD6X63brPei8qF3$37f75ea5cd56aeaa7ba037288e8153e53f2e93f080148527715ed7b237b6ca2f",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-08 16:50:20"
   }
 ]
