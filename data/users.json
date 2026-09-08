@@ -48,7 +48,7 @@
     "id": 7,
     "company_id": 3,
     "username": "Benedict",
-    "password_hash": "pbkdf2:sha256:260000$t2z2Ktft43widIzg$43ae1d9646e490054d68545c66b5ec4c58cb8b5c55b70c7ef5c0f1c045f71898",
+    "password_hash": "pbkdf2:sha256:260000$txLnQV0HzRkDzS6x$f266faed0e45a521b581362a0c4e3a79ad2f29b0cf94a2441137c84f4181a8bf",
     "role": "picker",
     "active": true,
     "created_at": "2026-09-08 09:24:15"
