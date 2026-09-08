@@ -70,5 +70,14 @@
     "role": "member",
     "active": true,
     "created_at": "2026-09-08 16:50:20"
+  },
+  {
+    "id": 10,
+    "company_id": 4,
+    "username": "barryhamsy",
+    "password_hash": "pbkdf2:sha256:260000$WJcsWzHVR56JsTvT$e89e7ffcdf1895e3f8c171b5932a2786cc6b3eaedb78fd4aa5dca2229457631a",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-08 16:50:53"
   }
 ]
