@@ -12,7 +12,7 @@
     "id": 2,
     "company_id": 2,
     "username": "neptune",
-    "password_hash": "pbkdf2:sha256:260000$gLZpvsJd82zo3EAF$d3245a0de84dbb7937d8b68b7ac9649468c410fd7ee6ccff9e7374d70179303b",
+    "password_hash": "pbkdf2:sha256:260000$Mv07FspwjiksQkGN$bb4a143358e673e4ce221031267fdef2f6c00defdb9341a78b63c0857f0ae9e2",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
