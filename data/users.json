@@ -47,7 +47,7 @@
   {
     "id": 7,
     "company_id": 3,
-    "username": "Benedict",
+    "username": "benedict",
     "password_hash": "pbkdf2:sha256:260000$txLnQV0HzRkDzS6x$f266faed0e45a521b581362a0c4e3a79ad2f29b0cf94a2441137c84f4181a8bf",
     "role": "picker",
     "active": true,
