@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "code": "ADMIN",
+    "type": "admin",
+    "transporter_code": null,
+    "restricted_edit": false,
+    "extra_visible_transporter": null,
+    "extra_visible_origin": null,
+    "blocked_origin": null,
+    "active": true,
+    "created_at": "2026-09-08 02:22:56"
+  },
+  {
+    "id": 2,
+    "name": "Neptune",
+    "code": "NEPTUNE",
+    "type": "transporter",
+    "transporter_code": "NEPTUNE",
+    "restricted_edit": false,
+    "extra_visible_transporter": "SELF COLLECT",
+    "extra_visible_origin": "LABUAN",
+    "blocked_origin": "MIRI",
+    "active": true,
+    "created_at": "2026-09-08 02:22:56"
+  },
+  {
+    "id": 3,
+    "name": "AT Dunia",
+    "code": "ATDUNIA",
+    "type": "transporter",
+    "transporter_code": "AT DUNIA",
+    "restricted_edit": true,
+    "extra_visible_transporter": null,
+    "extra_visible_origin": null,
+    "blocked_origin": null,
+    "active": true,
+    "created_at": "2026-09-08 02:22:56"
+  },
+  {
+    "id": 4,
+    "name": "AkzoNobel",
+    "code": "AKZONOBEL",
+    "type": "partner",
+    "transporter_code": null,
+    "restricted_edit": false,
+    "extra_visible_transporter": null,
+    "extra_visible_origin": null,
+    "blocked_origin": null,
+    "active": true,
+    "created_at": "2026-09-08 02:22:56"
+  }
+]
