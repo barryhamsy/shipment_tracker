@@ -4,7 +4,7 @@
     "company_id": 1,
     "username": "admin",
     "password_hash": "scrypt:32768:8:1$fc7QOaDXat2DI7Il$9f523933e2e801a1a6cff4c0201567cd2b628be01c57435744757b6abfdf783c32333567147b96d8378bc4243eb4591792be7c603dba8b33b675acde6b56ef03",
-    "role": "owner",
+    "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
   },
@@ -13,7 +13,7 @@
     "company_id": 2,
     "username": "neptune",
     "password_hash": "scrypt:32768:8:1$XzUec0ojQmPnKx6V$6a8500d999bb318c73771f4b71d85c3a52ba7d5cca407ca679270baaeb5cdaea7aacb88a2ed4d0e986e9442b648431c65494590005a827ffd72cec5b9e4c69b3",
-    "role": "owner",
+    "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
   },
@@ -22,7 +22,7 @@
     "company_id": 3,
     "username": "atdunia",
     "password_hash": "scrypt:32768:8:1$BGkkbw9JdowCRIBN$a00d09c9789292a4790bd4914d90f720d3a6f24051aa4bbaa29b4aa5d103ebca6965f17920c64a163bd0fd171e781dce63baf23ee3e37cab25b5801449e67d01",
-    "role": "owner",
+    "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
   },
@@ -40,7 +40,7 @@
     "company_id": 3,
     "username": "Aquino",
     "password_hash": "scrypt:32768:8:1$ZEEJQSWkNFAwI8rF$9971dda918f0118e34a9053e0ba8eb46b7c9fe39d1ad63b1b8ec984bf48e6674ab0c52224fd878d8a0a622c2db41d19994c1982b3df27fb1a08235b151738a02",
-    "role": "member",
+    "role": "driver",
     "active": false,
     "created_at": "2026-09-08 02:42:14"
   },
