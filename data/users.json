@@ -43,5 +43,14 @@
     "role": "member",
     "active": false,
     "created_at": "2026-09-08 02:42:14"
+  },
+  {
+    "id": 6,
+    "company_id": 3,
+    "username": "Aquino1",
+    "password_hash": "scrypt:32768:8:1$intPWyV6ycSIrycS$96bc8459da8b0e29f421aa3e083dce932cfb8eb4087c4cafe9f92c81d79af574b3f9f5c6e319373a44df6ae7304aba965125ea5e1ea3771e25a7b11383de30fe",
+    "role": "driver",
+    "active": true,
+    "created_at": "2026-09-08 08:37:14"
   }
 ]
