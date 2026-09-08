@@ -20,7 +20,7 @@
   {
     "id": 3,
     "company_id": 3,
-    "username": "atdunia",
+    "username": "irene",
     "password_hash": "pbkdf2:sha256:260000$m8jVDmH5weXIpxCb$d1cbe90971beb7b7001d9269540e3a1ec8d324a85fcb750bea404fc205217c61",
     "role": "admin",
     "active": true,
