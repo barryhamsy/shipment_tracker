@@ -52,5 +52,14 @@
     "role": "picker",
     "active": true,
     "created_at": "2026-09-08 09:24:15"
+  },
+  {
+    "id": 8,
+    "company_id": 4,
+    "username": "carolekuan",
+    "password_hash": "pbkdf2:sha256:260000$GoPtJQQ1CCjsCzUN$964151b2ecc3e6872fd7bc5151591107eca8fa1df9d66617ece17e0fea5c5765",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-08 16:49:57"
   }
 ]
