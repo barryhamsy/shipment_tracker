@@ -38847,13 +38847,7 @@
     "created_at": "2026-08-27 09:13:44",
     "updated_at": "2026-08-27 09:14:00",
     "has_pod": true,
-    "photos": [
-      {
-        "slot": 1,
-        "ext": "jpg",
-        "sha": "9f094f187b03226779c96f38206aee0f1ef331df"
-      }
-    ]
+    "photos": []
   },
   {
     "id": 2325,
@@ -40576,13 +40570,7 @@
     "updated_at": "2026-09-08 12:24:03",
     "updated_by": "Benedict",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 1,
-        "ext": "jpg",
-        "sha": "9f094f187b03226779c96f38206aee0f1ef331df"
-      }
-    ]
+    "photos": []
   },
   {
     "id": 2407,
