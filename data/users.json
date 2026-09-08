@@ -38,9 +38,9 @@
   {
     "id": 5,
     "company_id": 3,
-    "username": "Aquino",
+    "username": "jamie",
     "password_hash": "pbkdf2:sha256:260000$OYBg1xPOPNTdePbV$86f46b26d1427965b7ed670d8b14efea2038b772c97670d1dffdb36ca5ab6cbd",
-    "role": "driver",
+    "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:42:14"
   },
