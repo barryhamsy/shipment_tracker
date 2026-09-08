@@ -3,7 +3,7 @@
     "id": 1,
     "company_id": 1,
     "username": "admin",
-    "password_hash": "pbkdf2:sha256:260000$QldX8M9czVFYAxAJ$90c8dd70ede708ee69a0ce416c7cb413d412f8eafcb9b3865205d33f486c910a",
+    "password_hash": "pbkdf2:sha256:260000$5wt42WqyrixLHW73$371ba7780df7f02610f88a444cfe24c0d2c2c05091bd31773989ceb803038e3c",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
