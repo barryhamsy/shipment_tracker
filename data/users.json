@@ -39,7 +39,7 @@
     "id": 5,
     "company_id": 3,
     "username": "jamie",
-    "password_hash": "pbkdf2:sha256:260000$OYBg1xPOPNTdePbV$86f46b26d1427965b7ed670d8b14efea2038b772c97670d1dffdb36ca5ab6cbd",
+    "password_hash": "pbkdf2:sha256:260000$ZUTSoW2kg1TB6Izs$c8b2f6837b162ad25a6e82ca7edc126bbcc798a6599db7e805b4a8d69106963c",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:42:14"
