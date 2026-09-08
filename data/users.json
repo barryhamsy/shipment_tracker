@@ -3,7 +3,7 @@
     "id": 1,
     "company_id": 1,
     "username": "admin",
-    "password_hash": "scrypt:32768:8:1$fc7QOaDXat2DI7Il$9f523933e2e801a1a6cff4c0201567cd2b628be01c57435744757b6abfdf783c32333567147b96d8378bc4243eb4591792be7c603dba8b33b675acde6b56ef03",
+    "password_hash": "pbkdf2:sha256:260000$QldX8M9czVFYAxAJ$90c8dd70ede708ee69a0ce416c7cb413d412f8eafcb9b3865205d33f486c910a",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
@@ -12,7 +12,7 @@
     "id": 2,
     "company_id": 2,
     "username": "neptune",
-    "password_hash": "scrypt:32768:8:1$XzUec0ojQmPnKx6V$6a8500d999bb318c73771f4b71d85c3a52ba7d5cca407ca679270baaeb5cdaea7aacb88a2ed4d0e986e9442b648431c65494590005a827ffd72cec5b9e4c69b3",
+    "password_hash": "pbkdf2:sha256:260000$gLZpvsJd82zo3EAF$d3245a0de84dbb7937d8b68b7ac9649468c410fd7ee6ccff9e7374d70179303b",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
@@ -21,7 +21,7 @@
     "id": 3,
     "company_id": 3,
     "username": "atdunia",
-    "password_hash": "scrypt:32768:8:1$BGkkbw9JdowCRIBN$a00d09c9789292a4790bd4914d90f720d3a6f24051aa4bbaa29b4aa5d103ebca6965f17920c64a163bd0fd171e781dce63baf23ee3e37cab25b5801449e67d01",
+    "password_hash": "pbkdf2:sha256:260000$rFIREi0VeMyDH7bj$f751c98ad9498162425ce4bb15bb3651a76cedcc8a39277bf533062e64449fb4",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
@@ -30,7 +30,7 @@
     "id": 4,
     "company_id": 4,
     "username": "akzonobel",
-    "password_hash": "scrypt:32768:8:1$nHf8WZIs0tO5EeM3$27d0bea25ed81909f20237dc379ed7075a26f26bfc6defcc4e1cd17a52ecdaaf8b7772b4ddd6b98333fb38cea0da96cd0b60326c4bda2fbddce1d5b3a1689625",
+    "password_hash": "pbkdf2:sha256:260000$hOe0ZwP9b0bw03VQ$c69cab026959049d85a21fde40f03db46a8465125d99ac9bc130c42f91b1796e",
     "role": "owner",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
@@ -39,7 +39,7 @@
     "id": 5,
     "company_id": 3,
     "username": "Aquino",
-    "password_hash": "scrypt:32768:8:1$ZEEJQSWkNFAwI8rF$9971dda918f0118e34a9053e0ba8eb46b7c9fe39d1ad63b1b8ec984bf48e6674ab0c52224fd878d8a0a622c2db41d19994c1982b3df27fb1a08235b151738a02",
+    "password_hash": "pbkdf2:sha256:260000$pE3S5DBqItHNSTGH$26979a0d83e9c822e02099a3d8728a67297539110e68c8d5f8779d6d64e3a184",
     "role": "driver",
     "active": false,
     "created_at": "2026-09-08 02:42:14"
@@ -48,7 +48,7 @@
     "id": 7,
     "company_id": 3,
     "username": "Benedict",
-    "password_hash": "scrypt:32768:8:1$t7mC7pCbTG17Ox0u$656d165f6164a45723a9d6bdc4cf569e93d60920439a25ac6c30d94a4ab3905cb23fd68e0c455f43b204d66238e84585d5e82bb4a74fa75a2f43f64091ae157f",
+    "password_hash": "pbkdf2:sha256:260000$t2z2Ktft43widIzg$43ae1d9646e490054d68545c66b5ec4c58cb8b5c55b70c7ef5c0f1c045f71898",
     "role": "picker",
     "active": true,
     "created_at": "2026-09-08 09:24:15"
