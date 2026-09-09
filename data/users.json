@@ -124,5 +124,14 @@
     "role": "picker",
     "active": true,
     "created_at": "2026-09-08 16:55:56"
+  },
+  {
+    "id": 16,
+    "company_id": 4,
+    "username": "huiming",
+    "password_hash": "pbkdf2:sha256:260000$eVdogdCQjNxVp3Ks$a9ceea82cd9c052ec52e60ec1aaad1f5a8cd3a8fe922604bfddd14ad3d492add",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-09 00:51:35"
   }
 ]
