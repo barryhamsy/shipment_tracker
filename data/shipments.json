@@ -40698,5 +40698,33 @@
     "updated_at": "2026-09-09 00:38:07",
     "created_by": "neptune",
     "updated_by": "neptune"
+  },
+  {
+    "id": 2412,
+    "so": "1046725367",
+    "dn": "9109375609",
+    "customer_name": "PETRA RESOURCES SDN BHD",
+    "customer_phone": "0193957696",
+    "origin": "Labuan",
+    "destination": "Labuan",
+    "etd": "2026-09-08",
+    "eta": "2026-09-08",
+    "eta_customer": "2026-09-09",
+    "actual": "2026-09-08",
+    "transporter": "NEPTUNE",
+    "delivery_status": "Delivered",
+    "volume_liter": 90.0,
+    "company": "NEPTUNE",
+    "has_pod": false,
+    "photos": [],
+    "chromascan": false,
+    "tinting_pcs": null,
+    "tinting_status": null,
+    "tinting_started_at": null,
+    "tinting_completed_at": null,
+    "created_at": "2026-09-09 00:39:43",
+    "updated_at": "2026-09-09 00:39:43",
+    "created_by": "neptune",
+    "updated_by": "neptune"
   }
 ]
