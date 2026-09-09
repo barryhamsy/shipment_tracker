@@ -40245,7 +40245,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-05 00:40:20",
     "updated_at": "2026-09-05 00:40:20",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
