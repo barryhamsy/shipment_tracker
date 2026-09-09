@@ -40549,11 +40549,11 @@
     "eta_customer": "2026-09-12",
     "actual": "2026-09-09",
     "transporter": "AT DUNIA",
-    "delivery_status": "Picking",
+    "delivery_status": "Packing",
     "volume_liter": 75.0,
     "company": "ADMIN",
     "created_at": "2026-09-07 09:48:28",
-    "updated_at": "2026-09-09 01:25:41",
+    "updated_at": "2026-09-09 01:26:12",
     "has_pod": false,
     "photos": [
       {
