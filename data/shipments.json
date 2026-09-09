@@ -36449,7 +36449,7 @@
     "company": "ADMIN",
     "created_at": "2026-08-13 08:49:10",
     "updated_at": "2026-08-13 08:49:10",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
