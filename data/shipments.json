@@ -33891,7 +33891,13 @@
     "created_at": "2026-08-03 07:55:07",
     "updated_at": "2026-08-03 07:55:07",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "d34ac4fcbb1bd17928078f572100f4adfc3187c7"
+      }
+    ]
   },
   {
     "id": 2087,
@@ -40564,7 +40570,13 @@
     "created_at": "2026-09-07 09:51:17",
     "updated_at": "2026-09-09 01:24:27",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "d34ac4fcbb1bd17928078f572100f4adfc3187c7"
+      }
+    ],
     "updated_by": "brendan"
   },
   {
