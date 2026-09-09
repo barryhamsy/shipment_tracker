@@ -111,7 +111,7 @@
     "id": 14,
     "company_id": 3,
     "username": "carlos",
-    "password_hash": "pbkdf2:sha256:260000$ZmwlSJbwDJCkRqyM$1fc8ce8eafb1c5d7f0124994df72d016dc437a85ca4cf0d4777413023a0f898d",
+    "password_hash": "pbkdf2:sha256:260000$z82DZ2lxh56xNJST$05b072f7cc28d3c94cccfe5def10ceb760108ff8bc7fd40478e688f4cec26f33",
     "role": "picker",
     "active": true,
     "created_at": "2026-09-08 16:55:24"
