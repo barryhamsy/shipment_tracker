@@ -40561,13 +40561,14 @@
     "eta_customer": "2026-09-12",
     "actual": "2026-09-09",
     "transporter": "AT DUNIA",
-    "delivery_status": "Pending",
+    "delivery_status": "Picking",
     "volume_liter": 94.0,
     "company": "ADMIN",
     "created_at": "2026-09-07 09:53:23",
-    "updated_at": "2026-09-07 09:53:23",
+    "updated_at": "2026-09-09 01:18:53",
     "has_pod": false,
-    "photos": []
+    "photos": [],
+    "updated_by": "brendan"
   },
   {
     "id": 2406,
