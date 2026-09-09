@@ -102,7 +102,7 @@
     "id": 13,
     "company_id": 3,
     "username": "brendan",
-    "password_hash": "pbkdf2:sha256:260000$oQgwZhxqoxDddDCx$3a1a153791670525b310963e094ceb3d82cce9a9f357fdb7bd2f48353e94b5e0",
+    "password_hash": "pbkdf2:sha256:260000$wOR424NGZqtIWmY2$7ce31b9296241a781f8020dc4f2a89076a16d4b7895ab64692070b6b28e3c255",
     "role": "picker",
     "active": true,
     "created_at": "2026-09-08 16:55:04"
