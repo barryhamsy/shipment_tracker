@@ -10647,27 +10647,6 @@
     "photos": []
   },
   {
-    "id": 975,
-    "so": "1045218113",
-    "dn": "9105837529",
-    "customer_name": "VITAWANI SHIPBUILDING SDN BHD",
-    "customer_phone": "",
-    "origin": "Miri",
-    "destination": "Sibu",
-    "etd": "2026-03-26",
-    "eta": "2026-03-27",
-    "eta_customer": "2026-03-31",
-    "actual": "2026-03-28",
-    "transporter": "AT DUNIA",
-    "delivery_status": "Pending",
-    "volume_liter": 265.0,
-    "company": "ADMIN",
-    "created_at": "2026-03-27 00:44:27",
-    "updated_at": "2026-03-27 00:44:27",
-    "has_pod": false,
-    "photos": []
-  },
-  {
     "id": 976,
     "so": "1045208932",
     "dn": "9105835452",
