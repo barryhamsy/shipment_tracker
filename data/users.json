@@ -142,5 +142,14 @@
     "role": "picker",
     "active": true,
     "created_at": "2026-09-09 00:55:38"
+  },
+  {
+    "id": 18,
+    "company_id": 3,
+    "username": "driver1",
+    "password_hash": "pbkdf2:sha256:260000$LWMqvqssSr2cuB3q$c26f68e10237c41d657ff9e1a868f0193e98960feee97973d7c872954eed1d65",
+    "role": "driver",
+    "active": true,
+    "created_at": "2026-09-09 01:00:14"
   }
 ]
