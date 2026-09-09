@@ -38389,7 +38389,7 @@
   },
   {
     "id": 2303,
-    "so": "9109027484",
+    "so": "1046600315",
     "dn": "9109027484",
     "customer_name": "TK CORROSION",
     "customer_phone": "TBA",
@@ -38404,9 +38404,15 @@
     "volume_liter": 67.0,
     "company": "NEPTUNE",
     "created_at": "2026-08-24 08:35:12",
-    "updated_at": "2026-08-24 08:35:12",
+    "updated_at": "2026-09-09 00:52:06",
     "has_pod": true,
-    "photos": []
+    "photos": [],
+    "chromascan": false,
+    "tinting_pcs": null,
+    "tinting_status": null,
+    "tinting_started_at": null,
+    "tinting_completed_at": null,
+    "updated_by": "neptune"
   },
   {
     "id": 2304,
