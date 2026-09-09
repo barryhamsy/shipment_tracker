@@ -40357,7 +40357,7 @@
     "id": 2394,
     "so": "1046347838",
     "dn": "9109093694",
-    "customer_name": "KEJURUTERAAN GEMILANG JAYA (YARD)",
+    "customer_name": "SAMSUNG E&A MALAYSIA SDN BHD",
     "customer_phone": "017-3742403",
     "origin": "Miri",
     "destination": "Bintulu",
@@ -40370,9 +40370,15 @@
     "volume_liter": 300.0,
     "company": "ADMIN",
     "created_at": "2026-09-07 07:24:26",
-    "updated_at": "2026-09-07 07:24:26",
+    "updated_at": "2026-09-09 02:07:50",
     "has_pod": false,
-    "photos": []
+    "photos": [],
+    "chromascan": false,
+    "tinting_pcs": null,
+    "tinting_status": null,
+    "tinting_started_at": null,
+    "tinting_completed_at": null,
+    "updated_by": "irene"
   },
   {
     "id": 2395,
