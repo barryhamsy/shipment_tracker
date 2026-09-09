@@ -40743,7 +40743,7 @@
     "delivery_status": "Delivered",
     "volume_liter": 1500.0,
     "company": "NEPTUNE",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [],
     "chromascan": true,
     "tinting_pcs": 180,
