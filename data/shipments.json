@@ -39455,7 +39455,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-01 07:44:47",
     "updated_at": "2026-09-01 07:44:47",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
