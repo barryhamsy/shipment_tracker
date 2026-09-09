@@ -40101,11 +40101,11 @@
     "eta_customer": "2026-09-06",
     "actual": "2026-09-06",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Picking",
     "volume_liter": 14.0,
     "company": "ADMIN",
     "created_at": "2026-09-04 08:05:59",
-    "updated_at": "2026-09-09 01:39:28",
+    "updated_at": "2026-09-09 01:39:41",
     "has_pod": false,
     "photos": [],
     "updated_by": "brendan"
