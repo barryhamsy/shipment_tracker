@@ -40909,13 +40909,7 @@
     "volume_liter": 200.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 1,
-        "ext": "jpeg",
-        "sha": "a235fb2d1ec0320ff39c1c7cf85461fa0a46b91b"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
@@ -41285,13 +41279,7 @@
     "volume_liter": 50.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 1,
-        "ext": "jpeg",
-        "sha": "a235fb2d1ec0320ff39c1c7cf85461fa0a46b91b"
-      }
-    ],
+    "photos": [],
     "chromascan": true,
     "tinting_pcs": 10,
     "tinting_status": "Pending",
@@ -41319,13 +41307,7 @@
     "volume_liter": 2110.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 1,
-        "ext": "jpeg",
-        "sha": "a235fb2d1ec0320ff39c1c7cf85461fa0a46b91b"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
