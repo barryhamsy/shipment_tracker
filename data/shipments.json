@@ -40387,11 +40387,11 @@
     "eta_customer": "2026-09-12",
     "actual": "2026-09-09",
     "transporter": "AT DUNIA",
-    "delivery_status": "Pending",
+    "delivery_status": "Picking",
     "volume_liter": 820.0,
     "company": "ADMIN",
     "created_at": "2026-09-07 07:46:23",
-    "updated_at": "2026-09-07 07:46:23",
+    "updated_at": "2026-09-09 01:43:12",
     "has_pod": false,
     "photos": [
       {
@@ -40399,7 +40399,8 @@
         "ext": "jpg",
         "sha": "35ba490679c2c53ce0cf4b76b732561b337db001"
       }
-    ]
+    ],
+    "updated_by": "brendan"
   },
   {
     "id": 2396,
