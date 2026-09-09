@@ -40981,7 +40981,13 @@
     "volume_liter": 175.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "4aa9065bb21d9042713f349075deae499ac4bb7c"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 20,
     "tinting_status": "Completed",
