@@ -39623,7 +39623,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-02 05:44:12",
     "updated_at": "2026-09-02 05:44:12",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
