@@ -39948,13 +39948,7 @@
     "created_at": "2026-09-03 08:15:33",
     "updated_at": "2026-09-03 08:15:33",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 2,
-        "ext": "jpeg",
-        "sha": "8b3615f0953f76d48f42e26a1005edb9dc9cb5ef"
-      }
-    ]
+    "photos": []
   },
   {
     "id": 2372,
@@ -39975,13 +39969,7 @@
     "created_at": "2026-09-03 08:16:05",
     "updated_at": "2026-09-03 08:16:05",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 2,
-        "ext": "jpeg",
-        "sha": "8b3615f0953f76d48f42e26a1005edb9dc9cb5ef"
-      }
-    ]
+    "photos": []
   },
   {
     "id": 2373,
@@ -41140,13 +41128,7 @@
     "volume_liter": 240.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 2,
-        "ext": "jpeg",
-        "sha": "8b3615f0953f76d48f42e26a1005edb9dc9cb5ef"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
@@ -41174,13 +41156,7 @@
     "volume_liter": 50.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 2,
-        "ext": "jpeg",
-        "sha": "8b3615f0953f76d48f42e26a1005edb9dc9cb5ef"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
@@ -41208,13 +41184,7 @@
     "volume_liter": 4949.08,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 2,
-        "ext": "jpeg",
-        "sha": "8b3615f0953f76d48f42e26a1005edb9dc9cb5ef"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
@@ -41648,13 +41618,7 @@
     "volume_liter": 250.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 2,
-        "ext": "jpeg",
-        "sha": "8b3615f0953f76d48f42e26a1005edb9dc9cb5ef"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
