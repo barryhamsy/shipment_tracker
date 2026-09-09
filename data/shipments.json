@@ -41121,7 +41121,7 @@
     "so": "1046726373",
     "dn": "9109331982",
     "customer_name": "SUNG MEE HARDWARE SDN BHD",
-    "customer_phone": "",
+    "customer_phone": "084-336633",
     "origin": "Miri",
     "destination": "Sibu",
     "etd": "",
@@ -41140,7 +41140,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-09 01:57:05",
-    "updated_at": "2026-09-09 01:57:05",
+    "updated_at": "2026-09-09 01:58:30",
     "created_by": "irene",
     "updated_by": "irene"
   }
