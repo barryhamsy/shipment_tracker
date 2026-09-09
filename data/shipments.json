@@ -38961,7 +38961,13 @@
     "created_at": "2026-08-27 09:13:44",
     "updated_at": "2026-08-27 09:14:00",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "8d3b83c609541f1b878427b81980418cafefb80b"
+      }
+    ]
   },
   {
     "id": 2325,
@@ -40779,7 +40785,13 @@
     "updated_at": "2026-09-08 12:24:03",
     "updated_by": "Benedict",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "8d3b83c609541f1b878427b81980418cafefb80b"
+      }
+    ]
   },
   {
     "id": 2407,
@@ -41620,7 +41632,13 @@
     "volume_liter": 45.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "8d3b83c609541f1b878427b81980418cafefb80b"
+      }
+    ],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
