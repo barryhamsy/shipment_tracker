@@ -40659,7 +40659,7 @@
     "delivery_status": "Delivered",
     "volume_liter": 25.0,
     "company": "NEPTUNE",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
