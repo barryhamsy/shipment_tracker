@@ -34347,7 +34347,13 @@
     "created_at": "2026-08-05 08:40:53",
     "updated_at": "2026-08-05 08:40:53",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "fb3c4b7d6058b1b4ed524a98e0410804085c3fb0"
+      }
+    ]
   },
   {
     "id": 2108,
@@ -41183,7 +41189,13 @@
     "volume_liter": 240.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "fb3c4b7d6058b1b4ed524a98e0410804085c3fb0"
+      }
+    ],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
