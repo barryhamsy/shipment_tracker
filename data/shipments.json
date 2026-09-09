@@ -40619,13 +40619,14 @@
     "eta_customer": "2026-09-12",
     "actual": "2026-09-09",
     "transporter": "AT DUNIA",
-    "delivery_status": "Pending",
+    "delivery_status": "Packing",
     "volume_liter": 168.0,
     "company": "ADMIN",
     "created_at": "2026-09-07 10:01:36",
-    "updated_at": "2026-09-07 10:01:36",
+    "updated_at": "2026-09-09 00:46:50",
     "has_pod": false,
-    "photos": []
+    "photos": [],
+    "updated_by": "benedict"
   },
   {
     "id": 2409,
