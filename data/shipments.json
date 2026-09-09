@@ -40769,8 +40769,8 @@
     "volume_liter": 220.0,
     "company": "ADMIN",
     "created_at": "2026-09-07 10:02:10",
-    "updated_at": "2026-09-09 01:22:59",
-    "updated_by": "brendan",
+    "updated_at": "2026-09-09 02:14:18",
+    "updated_by": "irene",
     "has_pod": false,
     "photos": [
       {
@@ -40778,7 +40778,12 @@
         "ext": "jpg",
         "sha": "fbde0897ad3eefeac1ed46a5b8bb9a3813bda22a"
       }
-    ]
+    ],
+    "chromascan": false,
+    "tinting_pcs": null,
+    "tinting_status": null,
+    "tinting_started_at": null,
+    "tinting_completed_at": null
   },
   {
     "id": 2410,
