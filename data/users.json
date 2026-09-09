@@ -21,7 +21,7 @@
     "id": 3,
     "company_id": 3,
     "username": "irene",
-    "password_hash": "pbkdf2:sha256:260000$DQ6g71IUJE7sT7MN$cbfedd0bf0b387b4c404d6bd05a370c2f7f3869805b1acfe41fdecde88e25ac4",
+    "password_hash": "pbkdf2:sha256:260000$3A0cwvLCqejKiow9$2270f598d1862f92f8c7572cdf456aee4a76d64a54cbe18f577aea3ab1031ff4",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 02:22:56"
