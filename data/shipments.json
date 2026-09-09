@@ -39497,7 +39497,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-02 02:34:14",
     "updated_at": "2026-09-02 02:34:14",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
