@@ -40642,5 +40642,33 @@
     "updated_by": "atdunia",
     "has_pod": false,
     "photos": []
+  },
+  {
+    "id": 2410,
+    "so": "1046458576",
+    "dn": "9109325156",
+    "customer_name": "ASIAN SUPPLY BASE",
+    "customer_phone": "TBA",
+    "origin": "Labuan",
+    "destination": "Labuan",
+    "etd": "2026-09-08",
+    "eta": "2026-09-08",
+    "eta_customer": "2026-09-09",
+    "actual": "2026-09-08",
+    "transporter": "SELF COLLECT",
+    "delivery_status": "Delivered",
+    "volume_liter": 25.0,
+    "company": "NEPTUNE",
+    "has_pod": false,
+    "photos": [],
+    "chromascan": false,
+    "tinting_pcs": null,
+    "tinting_status": null,
+    "tinting_started_at": null,
+    "tinting_completed_at": null,
+    "created_at": "2026-09-09 00:35:53",
+    "updated_at": "2026-09-09 00:35:53",
+    "created_by": "neptune",
+    "updated_by": "neptune"
   }
 ]
