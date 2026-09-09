@@ -138,7 +138,7 @@
     "id": 17,
     "company_id": 3,
     "username": "barryhamsy",
-    "password_hash": "pbkdf2:sha256:260000$sU2yK0ep6NX8EsQL$76557fb6be616649aa207d08a890166896bc007326bfa646188717c1adebc15b",
+    "password_hash": "pbkdf2:sha256:260000$VHo4YRghbCqodliO$9d37875ee9a3725fb4ed98db102112150f05eae68a0e5f52185e0f9c9d6c506f",
     "role": "picker",
     "active": true,
     "created_at": "2026-09-09 00:55:38"
