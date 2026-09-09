@@ -169,5 +169,14 @@
     "role": "driver",
     "active": true,
     "created_at": "2026-09-09 02:26:53"
+  },
+  {
+    "id": 21,
+    "company_id": 4,
+    "username": "william",
+    "password_hash": "pbkdf2:sha256:260000$1Zpgryq1nK5cNKEW$dbdab446cb72f9d71e8a7d83f10e3a83bb54aa15249995b02876f20ae1376d14",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-09 03:17:18"
   }
 ]
