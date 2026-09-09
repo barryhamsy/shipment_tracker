@@ -40670,5 +40670,33 @@
     "updated_at": "2026-09-09 00:35:53",
     "created_by": "neptune",
     "updated_by": "neptune"
+  },
+  {
+    "id": 2411,
+    "so": "1046476285",
+    "dn": "9109224792",
+    "customer_name": "PETRONAS CARIGALI SDN BHD",
+    "customer_phone": "0192961684",
+    "origin": "Labuan",
+    "destination": "Labuan",
+    "etd": "2026-08-09",
+    "eta": "2026-08-09",
+    "eta_customer": "2026-08-10",
+    "actual": "2026-08-09",
+    "transporter": "NEPTUNE",
+    "delivery_status": "Delivered",
+    "volume_liter": 205.0,
+    "company": "NEPTUNE",
+    "has_pod": false,
+    "photos": [],
+    "chromascan": false,
+    "tinting_pcs": null,
+    "tinting_status": null,
+    "tinting_started_at": null,
+    "tinting_completed_at": null,
+    "created_at": "2026-09-09 00:38:07",
+    "updated_at": "2026-09-09 00:38:07",
+    "created_by": "neptune",
+    "updated_by": "neptune"
   }
 ]
