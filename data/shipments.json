@@ -40598,11 +40598,11 @@
     "eta_customer": "2026-09-12",
     "actual": "2026-09-09",
     "transporter": "AT DUNIA",
-    "delivery_status": "Picking",
+    "delivery_status": "Packing",
     "volume_liter": 188.5,
     "company": "ADMIN",
     "created_at": "2026-09-07 10:00:53",
-    "updated_at": "2026-09-09 01:17:15",
+    "updated_at": "2026-09-09 01:17:23",
     "has_pod": false,
     "photos": [],
     "updated_by": "brendan"
