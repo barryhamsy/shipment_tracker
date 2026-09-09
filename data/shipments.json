@@ -40169,7 +40169,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-05 00:43:06",
     "updated_at": "2026-09-05 00:43:49",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
