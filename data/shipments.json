@@ -40422,7 +40422,13 @@
     "created_at": "2026-09-07 08:25:50",
     "updated_at": "2026-09-09 01:32:03",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "d183c09deceb883c1ac112792cf810eb6f851acb"
+      }
+    ],
     "updated_by": "brendan"
   },
   {
