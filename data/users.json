@@ -93,7 +93,7 @@
     "id": 12,
     "company_id": 3,
     "username": "catherine",
-    "password_hash": "pbkdf2:sha256:260000$c6WnygKFiII3M8Ga$b4c74ea864dd096f2830c67215f338cc6a982ee4fb5106390109fd6c07ce6069",
+    "password_hash": "pbkdf2:sha256:260000$9L2TEt4oEjFmQOpl$3413f9c6f8d4713a06fd08f6bee01ddb094a64e634380a6cc4473ad90cee6855",
     "role": "admin",
     "active": true,
     "created_at": "2026-09-08 16:53:59"
