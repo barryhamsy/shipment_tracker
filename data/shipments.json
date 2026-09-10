@@ -40127,7 +40127,13 @@
     "created_at": "2026-09-04 00:20:35",
     "updated_at": "2026-09-04 00:20:35",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "ecc93cd7c783593a392fad7c2d06000dca8f8013"
+      }
+    ]
   },
   {
     "id": 2377,
@@ -42129,7 +42135,13 @@
     "volume_liter": 20.0,
     "company": "NEPTUNE",
     "has_pod": true,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "ecc93cd7c783593a392fad7c2d06000dca8f8013"
+      }
+    ],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
