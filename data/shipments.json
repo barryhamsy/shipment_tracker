@@ -42106,7 +42106,7 @@
     "delivery_status": "Pending",
     "volume_liter": 450.0,
     "company": "NEPTUNE",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
