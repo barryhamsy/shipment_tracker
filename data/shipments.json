@@ -26084,6 +26084,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -26237,6 +26242,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -26768,6 +26778,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -27698,6 +27713,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -28214,6 +28234,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -28619,6 +28644,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -30764,6 +30794,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -32903,6 +32938,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -35345,6 +35385,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -35729,6 +35774,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ]
   },
@@ -41628,6 +41678,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "7229ee192573bc2596aedb65c904ee90d24dfa27"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "d3eb3f46b2c9447d13bac0f7364ad4392198b80d"
       }
     ],
     "chromascan": false,
