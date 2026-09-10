@@ -29313,7 +29313,13 @@
     "created_at": "2026-07-08 09:12:16",
     "updated_at": "2026-07-08 09:12:16",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 1868,
@@ -29439,7 +29445,13 @@
     "created_at": "2026-07-08 09:15:26",
     "updated_at": "2026-07-08 09:15:37",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 1874,
@@ -30573,7 +30585,13 @@
     "created_at": "2026-07-14 02:24:01",
     "updated_at": "2026-07-14 02:24:01",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 1928,
@@ -31293,7 +31311,13 @@
     "created_at": "2026-07-17 03:25:00",
     "updated_at": "2026-07-17 03:25:00",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 1962,
@@ -32826,7 +32850,13 @@
     "created_at": "2026-07-27 06:49:53",
     "updated_at": "2026-07-27 06:49:53",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 2035,
@@ -36603,7 +36633,13 @@
     "created_at": "2026-08-14 03:15:51",
     "updated_at": "2026-08-14 03:15:51",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 2213,
@@ -36855,7 +36891,13 @@
     "created_at": "2026-08-17 00:34:30",
     "updated_at": "2026-08-17 00:34:30",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 2225,
@@ -37176,7 +37218,13 @@
     "created_at": "2026-08-18 07:02:31",
     "updated_at": "2026-08-18 07:02:31",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 2240,
@@ -38978,7 +39026,13 @@
     "created_at": "2026-08-27 09:15:21",
     "updated_at": "2026-08-27 09:15:21",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ]
   },
   {
     "id": 2326,
@@ -41889,7 +41943,13 @@
     "volume_liter": 250.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "5aa44d8d054f0e91d8edb7b6899a5ac4b3fcbcd0"
+      }
+    ],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
