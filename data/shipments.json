@@ -35840,7 +35840,7 @@
     "company": "ADMIN",
     "created_at": "2026-08-11 09:29:51",
     "updated_at": "2026-08-11 09:29:51",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
