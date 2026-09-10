@@ -41967,7 +41967,7 @@
     "delivery_status": "Delivered",
     "volume_liter": 135.0,
     "company": "ATDUNIA",
-    "has_pod": true,
+    "has_pod": false,
     "photos": [],
     "chromascan": true,
     "tinting_pcs": 6,
