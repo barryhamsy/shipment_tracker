@@ -39960,11 +39960,11 @@
     "eta_customer": "2026-09-10",
     "actual": "2026-09-05",
     "transporter": "AT DUNIA",
-    "delivery_status": "Pending",
+    "delivery_status": "Delivered",
     "volume_liter": 1073.0,
     "company": "ADMIN",
     "created_at": "2026-09-03 08:16:05",
-    "updated_at": "2026-09-03 08:16:05",
+    "updated_at": "2026-09-10 01:28:53",
     "has_pod": false,
     "photos": [
       {
@@ -39977,7 +39977,8 @@
         "ext": "jpeg",
         "sha": "95da16bc03b7b3f4bc25700666d665ea1aba1b82"
       }
-    ]
+    ],
+    "updated_by": "atdriver"
   },
   {
     "id": 2373,
