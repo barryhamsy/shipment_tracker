@@ -38945,6 +38945,11 @@
         "slot": 1,
         "ext": "jpeg",
         "sha": "8d3b83c609541f1b878427b81980418cafefb80b"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "c9e7996b014a69e6791d82509664bd5f7032ad52"
       }
     ]
   },
@@ -40781,6 +40786,11 @@
         "slot": 1,
         "ext": "jpeg",
         "sha": "8d3b83c609541f1b878427b81980418cafefb80b"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "c9e7996b014a69e6791d82509664bd5f7032ad52"
       }
     ]
   },
@@ -41654,6 +41664,11 @@
         "slot": 1,
         "ext": "jpeg",
         "sha": "8d3b83c609541f1b878427b81980418cafefb80b"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "c9e7996b014a69e6791d82509664bd5f7032ad52"
       }
     ],
     "chromascan": false,
