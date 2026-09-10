@@ -41750,7 +41750,13 @@
     "volume_liter": 50.0,
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpeg",
+        "sha": "e8699f727bbe644470c503e3d5fb54d94972c174"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 10,
     "tinting_status": "Pending",
