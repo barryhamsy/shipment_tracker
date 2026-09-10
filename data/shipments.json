@@ -11420,7 +11420,7 @@
     "company": "ADMIN",
     "created_at": "2026-03-30 00:45:17",
     "updated_at": "2026-03-30 00:45:17",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
