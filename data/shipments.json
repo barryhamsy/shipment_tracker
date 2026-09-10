@@ -37057,6 +37057,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "3c84a859a33db9e3a1d060a4a8b7ae6e170887af"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "44bd3ba2e3b6ead7b9c5a3b4d879aaf6ea8df06f"
       }
     ]
   },
@@ -40314,6 +40319,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "3c84a859a33db9e3a1d060a4a8b7ae6e170887af"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "44bd3ba2e3b6ead7b9c5a3b4d879aaf6ea8df06f"
       }
     ],
     "updated_by": "brendan"
