@@ -35819,7 +35819,7 @@
     "company": "ADMIN",
     "created_at": "2026-08-11 09:29:30",
     "updated_at": "2026-08-11 09:29:30",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
