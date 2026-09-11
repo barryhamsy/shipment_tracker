@@ -42536,9 +42536,9 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Delivered",
     "volume_liter": 10.0,
-    "remark": "",
+    "remark": "QAB7727D",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -42554,7 +42554,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-11 02:10:54",
-    "updated_at": "2026-09-11 02:38:44",
+    "updated_at": "2026-09-11 06:55:15",
     "created_by": "irene",
     "updated_by": "irene"
   },
