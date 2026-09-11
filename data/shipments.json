@@ -41888,6 +41888,11 @@
         "slot": 1,
         "ext": "jpeg",
         "sha": "faddaf98916aa9b714803deafa57062cb3278192"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "f0b674e10ab749fcb4e33c0962a6dc5b7e55fde3"
       }
     ],
     "chromascan": false,
