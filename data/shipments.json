@@ -41971,7 +41971,7 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 60.0,
     "company": "ATDUNIA",
     "has_pod": false,
@@ -41988,9 +41988,10 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-09 09:01:14",
-    "updated_at": "2026-09-10 02:01:06",
+    "updated_at": "2026-09-11 06:57:55",
     "created_by": "irene",
-    "updated_by": "brendan"
+    "updated_by": "irene",
+    "remark": "Justine WB8163Q"
   },
   {
     "id": 2437,
