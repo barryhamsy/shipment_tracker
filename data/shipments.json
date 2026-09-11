@@ -42573,7 +42573,7 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Pending",
+    "delivery_status": "Packing",
     "volume_liter": 98.2,
     "remark": "",
     "company": "ATDUNIA",
@@ -42585,9 +42585,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-11 05:28:09",
-    "updated_at": "2026-09-11 05:28:09",
+    "updated_at": "2026-09-11 07:56:14",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "brendan"
   },
   {
     "id": 2455,
