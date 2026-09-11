@@ -42339,7 +42339,7 @@
     "delivery_status": "Packing",
     "volume_liter": 60.0,
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
