@@ -42570,13 +42570,7 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 1,
-        "ext": "png",
-        "sha": "9a3e01c94a815d30d25c44319cade311aef3ac59"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
