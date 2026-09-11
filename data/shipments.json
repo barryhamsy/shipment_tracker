@@ -42641,7 +42641,7 @@
     "volume_liter": 31.42,
     "remark": "",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
