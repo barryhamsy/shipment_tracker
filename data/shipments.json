@@ -41727,6 +41727,16 @@
         "slot": 1,
         "ext": "jpeg",
         "sha": "77f71380756dcbe693ab394fa0a71c91ff118d75"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "482282e34129fc7c9597ea268859c900378076fd"
+      },
+      {
+        "slot": 3,
+        "ext": "jpg",
+        "sha": "39480d0234a21dc3755108f5782e1233971e129e"
       }
     ],
     "chromascan": false,
