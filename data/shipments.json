@@ -43066,7 +43066,7 @@
     "volume_liter": 80.0,
     "remark": "",
     "company": "NEPTUNE",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
