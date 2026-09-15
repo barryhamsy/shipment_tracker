@@ -40632,7 +40632,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-07 07:47:04",
     "updated_at": "2026-09-09 01:42:22",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
