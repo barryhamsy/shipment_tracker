@@ -41730,7 +41730,7 @@
     "delivery_status": "Pending",
     "volume_liter": 35.5,
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
