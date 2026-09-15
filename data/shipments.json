@@ -41652,7 +41652,7 @@
     "delivery_status": "Packing",
     "volume_liter": 2110.0,
     "company": "ATDUNIA",
-    "has_pod": true,
+    "has_pod": false,
     "photos": [
       {
         "slot": 1,
