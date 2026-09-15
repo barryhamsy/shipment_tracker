@@ -41176,7 +41176,7 @@
     "delivery_status": "Delivered",
     "volume_liter": 175.0,
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
