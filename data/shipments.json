@@ -40938,7 +40938,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-07 10:00:53",
     "updated_at": "2026-09-09 01:18:13",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
