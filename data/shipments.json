@@ -40052,7 +40052,7 @@
     "company": "ADMIN",
     "created_at": "2026-09-03 08:15:33",
     "updated_at": "2026-09-10 01:28:00",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
