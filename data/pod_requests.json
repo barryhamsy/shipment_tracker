@@ -3238,11 +3238,11 @@
     "dn": "9108007134",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-07-03 01:16:43",
-    "updated_at": "2026-07-03 01:16:43",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:03:37",
+    "closed_at": "2026-09-17 07:03:37",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 456,
