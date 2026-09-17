@@ -3366,17 +3366,6 @@
     "closed_by": null
   },
   {
-    "id": 469,
-    "dn": "9106775432",
-    "transporter": "AT DUNIA",
-    "requested_by": "AKZONOBEL",
-    "status": "open",
-    "created_at": "2026-07-16 00:04:30",
-    "updated_at": "2026-07-16 00:04:30",
-    "closed_at": null,
-    "closed_by": null
-  },
-  {
     "id": 470,
     "dn": "9106761839",
     "transporter": "AT DUNIA",
