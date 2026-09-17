@@ -2127,11 +2127,11 @@
     "dn": "9106261660",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-06 02:04:00",
-    "updated_at": "2026-05-06 02:04:00",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:07",
+    "closed_at": "2026-09-17 07:04:07",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 340,
