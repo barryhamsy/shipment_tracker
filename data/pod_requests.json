@@ -2314,11 +2314,11 @@
     "dn": "9106494914",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-14 07:42:50",
-    "updated_at": "2026-05-14 07:42:50",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:37",
+    "closed_at": "2026-09-17 07:04:37",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 361,
