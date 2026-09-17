@@ -3062,11 +3062,11 @@
     "dn": "9107652460",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-06-22 05:29:34",
-    "updated_at": "2026-06-22 05:29:34",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:43",
+    "closed_at": "2026-09-17 07:04:43",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 438,
