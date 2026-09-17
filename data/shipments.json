@@ -40699,27 +40699,6 @@
     "updated_by": "brendan"
   },
   {
-    "id": 2399,
-    "so": "1046715696",
-    "dn": "9109221991",
-    "customer_name": "TUONG AIK (KUCHING) SDN BHD",
-    "customer_phone": "019-8864708",
-    "origin": "Miri",
-    "destination": "Kuching",
-    "etd": "2026-09-07",
-    "eta": "2026-09-08",
-    "eta_customer": "2026-09-12",
-    "actual": "2026-09-09",
-    "transporter": "NEPTUNE",
-    "delivery_status": "Pending",
-    "volume_liter": 20.0,
-    "company": "ADMIN",
-    "created_at": "2026-09-07 08:48:56",
-    "updated_at": "2026-09-07 08:48:56",
-    "has_pod": false,
-    "photos": []
-  },
-  {
     "id": 2400,
     "so": "1046711049",
     "dn": "9109221989",
