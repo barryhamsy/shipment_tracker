@@ -2534,11 +2534,11 @@
     "dn": "9106494928",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-18 09:52:44",
-    "updated_at": "2026-05-18 09:52:44",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:23",
+    "closed_at": "2026-09-17 07:04:23",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 382,
