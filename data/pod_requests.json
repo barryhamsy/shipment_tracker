@@ -994,11 +994,11 @@
     "dn": "9104938334",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-02-24 06:56:30",
-    "updated_at": "2026-02-24 06:56:30",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:19",
+    "closed_at": "2026-09-17 07:04:19",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 218,
