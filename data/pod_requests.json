@@ -2402,11 +2402,11 @@
     "dn": "9106775421",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-15 01:23:22",
-    "updated_at": "2026-05-15 01:23:22",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:05:59",
+    "closed_at": "2026-09-17 07:05:59",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 369,
