@@ -1258,11 +1258,11 @@
     "dn": "9105259253",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-03-05 07:42:28",
-    "updated_at": "2026-03-05 07:42:28",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:03:41",
+    "closed_at": "2026-09-17 07:03:41",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 246,
