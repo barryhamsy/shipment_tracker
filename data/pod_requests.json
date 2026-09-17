@@ -2017,11 +2017,11 @@
     "dn": "9106122778",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-04-17 03:29:07",
-    "updated_at": "2026-04-17 03:29:07",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:05:21",
+    "closed_at": "2026-09-17 07:05:21",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 330,
