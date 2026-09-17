@@ -862,11 +862,11 @@
     "dn": "9105013205",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-02-13 03:40:24",
-    "updated_at": "2026-02-13 03:40:24",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:02:36",
+    "closed_at": "2026-09-17 07:02:36",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 206,
