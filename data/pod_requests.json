@@ -2743,11 +2743,11 @@
     "dn": "9106706827",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-21 02:55:24",
-    "updated_at": "2026-05-21 02:55:24",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:05:09",
+    "closed_at": "2026-09-17 07:05:09",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 403,
