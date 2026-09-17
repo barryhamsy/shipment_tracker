@@ -2006,11 +2006,11 @@
     "dn": "9106083117",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-04-16 14:54:15",
-    "updated_at": "2026-04-16 14:54:15",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:03:42",
+    "closed_at": "2026-09-17 07:03:42",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 329,
