@@ -3271,11 +3271,11 @@
     "dn": "9107497784",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-07-14 14:20:29",
-    "updated_at": "2026-07-14 14:20:29",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:03:47",
+    "closed_at": "2026-09-17 07:03:47",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 465,
