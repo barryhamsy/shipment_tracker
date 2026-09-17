@@ -2072,11 +2072,11 @@
     "dn": "9102125379",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-04-21 09:44:43",
-    "updated_at": "2026-04-21 09:44:43",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:09",
+    "closed_at": "2026-09-17 07:04:09",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 335,
