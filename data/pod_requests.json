@@ -895,11 +895,11 @@
     "dn": "9104545163",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-02-20 01:18:41",
-    "updated_at": "2026-02-20 01:18:41",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:05:20",
+    "closed_at": "2026-09-17 07:05:20",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 209,
