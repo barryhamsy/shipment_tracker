@@ -3161,11 +3161,11 @@
     "dn": "9107667160",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-06-25 00:57:45",
-    "updated_at": "2026-06-25 00:57:45",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:02:08",
+    "closed_at": "2026-09-17 07:02:08",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 448,
