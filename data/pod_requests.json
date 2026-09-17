@@ -2908,11 +2908,11 @@
     "dn": "9107106712",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-28 01:46:09",
-    "updated_at": "2026-05-28 01:46:09",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:40",
+    "closed_at": "2026-09-17 07:04:40",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 420,
