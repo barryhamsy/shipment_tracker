@@ -2886,11 +2886,11 @@
     "dn": "9106715915",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-26 08:37:33",
-    "updated_at": "2026-05-26 08:37:33",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:02:46",
+    "closed_at": "2026-09-17 07:02:46",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 418,
