@@ -2963,11 +2963,11 @@
     "dn": "9107107468",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-28 08:43:36",
-    "updated_at": "2026-05-28 08:43:36",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:06:01",
+    "closed_at": "2026-09-17 07:06:01",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 425,
