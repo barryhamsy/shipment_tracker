@@ -20093,7 +20093,7 @@
     "company": "ADMIN",
     "created_at": "2026-05-14 03:04:29",
     "updated_at": "2026-05-14 03:04:29",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
