@@ -2105,11 +2105,11 @@
     "dn": "9106393784",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-04-29 03:18:20",
-    "updated_at": "2026-04-29 03:18:20",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:34",
+    "closed_at": "2026-09-17 07:04:34",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 338,
