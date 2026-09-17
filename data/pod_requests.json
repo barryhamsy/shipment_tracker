@@ -2611,11 +2611,11 @@
     "dn": "9106921408",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-19 07:53:12",
-    "updated_at": "2026-05-19 07:53:12",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:04:04",
+    "closed_at": "2026-09-17 07:04:04",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 391,
