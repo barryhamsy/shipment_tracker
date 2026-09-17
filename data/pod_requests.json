@@ -2556,11 +2556,11 @@
     "dn": "9106314123",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-19 06:45:47",
-    "updated_at": "2026-05-19 06:45:47",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:03:19",
+    "closed_at": "2026-09-17 07:03:19",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 385,
