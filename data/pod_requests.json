@@ -3029,11 +3029,11 @@
     "dn": "9107429136",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-06-15 05:49:09",
-    "updated_at": "2026-06-15 05:49:09",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:03:29",
+    "closed_at": "2026-09-17 07:03:29",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 433,
