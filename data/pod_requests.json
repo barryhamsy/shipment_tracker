@@ -1313,11 +1313,11 @@
     "dn": "9105429961",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-03-10 14:23:10",
-    "updated_at": "2026-03-10 14:23:10",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:02:19",
+    "closed_at": "2026-09-17 07:02:19",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 251,
