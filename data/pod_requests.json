@@ -2292,11 +2292,11 @@
     "dn": "9106082144",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-05-14 07:42:01",
-    "updated_at": "2026-05-14 07:42:01",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-09-17 07:05:55",
+    "closed_at": "2026-09-17 07:05:55",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 359,
