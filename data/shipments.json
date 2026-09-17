@@ -20870,7 +20870,7 @@
     "company": "ADMIN",
     "created_at": "2026-05-18 01:46:16",
     "updated_at": "2026-05-18 01:46:16",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
