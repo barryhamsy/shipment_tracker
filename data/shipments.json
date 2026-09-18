@@ -39028,7 +39028,13 @@
     "created_at": "2026-08-27 06:42:40",
     "updated_at": "2026-08-27 06:42:40",
     "has_pod": true,
-    "photos": []
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "06f6da6ada58110b55914f7a83a5ff862742117a"
+      }
+    ]
   },
   {
     "id": 2324,
