@@ -66,17 +66,6 @@
     "closed_by": null
   },
   {
-    "id": 70,
-    "dn": "9103459900",
-    "transporter": "AT DUNIA",
-    "requested_by": "ATDUNIA",
-    "status": "open",
-    "created_at": "2025-12-02 03:00:23",
-    "updated_at": "2025-12-02 03:00:23",
-    "closed_at": null,
-    "closed_by": null
-  },
-  {
     "id": 71,
     "dn": "9101083016",
     "transporter": "AT DUNIA",
