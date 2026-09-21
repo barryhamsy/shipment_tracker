@@ -44353,7 +44353,7 @@
     "volume_liter": 210.0,
     "remark": "",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
