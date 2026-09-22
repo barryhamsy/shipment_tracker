@@ -178,5 +178,14 @@
     "role": "member",
     "active": true,
     "created_at": "2026-09-09 03:17:18"
+  },
+  {
+    "id": 22,
+    "company_id": 4,
+    "username": "jasminechin",
+    "password_hash": "pbkdf2:sha256:260000$6lgT5JW6l0y1jeF5$144f0428e0a8fcd098a41edc75797d4a69ce6410fe23ddd1feee265fc5521f1b",
+    "role": "member",
+    "active": true,
+    "created_at": "2026-09-22 07:18:02"
   }
 ]
