@@ -129,7 +129,7 @@
     "id": 16,
     "company_id": 4,
     "username": "huiming",
-    "password_hash": "pbkdf2:sha256:260000$MIDZVEp9DWQXXrnu$edc703e2ad349ea5a17ee6e4e62108c469b03285343e1fb62551b78fee64589b",
+    "password_hash": "pbkdf2:sha256:260000$pwgGKRKdo6uQkvyh$a8b6b753f24c919fc53f0a19e307ead2d3539eac79c4fe0b0679b906d79ca396",
     "role": "member",
     "active": true,
     "created_at": "2026-09-09 00:51:35"
