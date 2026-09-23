@@ -44232,7 +44232,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "f677988781a7a41a38ccb5158c2544f6b86e301c"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 1,
     "tinting_status": "Pending",
