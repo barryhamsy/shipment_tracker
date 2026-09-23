@@ -2497,17 +2497,6 @@
     "closed_by": "system (POD uploaded)"
   },
   {
-    "id": 426,
-    "dn": "9106656480",
-    "transporter": "AT DUNIA",
-    "requested_by": "AKZONOBEL",
-    "status": "open",
-    "created_at": "2026-05-28 08:51:44",
-    "updated_at": "2026-05-28 08:51:44",
-    "closed_at": null,
-    "closed_by": null
-  },
-  {
     "id": 427,
     "dn": "9106676201",
     "transporter": "AT DUNIA",
