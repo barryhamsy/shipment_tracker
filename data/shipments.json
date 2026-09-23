@@ -45148,6 +45148,11 @@
     "has_pod": false,
     "photos": [
       {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "e6f4dd8dd3127dc6945174a00db99e7cd826f97c"
+      },
+      {
         "slot": 2,
         "ext": "jpg",
         "sha": "e11109a39dba03b52448214847da18b070fe8c06"
