@@ -18728,7 +18728,7 @@
     "company": "ADMIN",
     "created_at": "2026-05-09 05:56:43",
     "updated_at": "2026-05-09 05:56:43",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
