@@ -25259,7 +25259,7 @@
     "company": "ADMIN",
     "created_at": "2026-06-20 04:42:10",
     "updated_at": "2026-06-20 04:42:10",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
