@@ -44215,7 +44215,7 @@
     "volume_liter": 150.0,
     "remark": "TRANSPORTER QF",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [],
     "chromascan": true,
     "tinting_pcs": 20,
