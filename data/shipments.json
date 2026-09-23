@@ -44244,7 +44244,7 @@
     "volume_liter": 154.1,
     "remark": "",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
