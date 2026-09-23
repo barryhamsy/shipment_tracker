@@ -44099,7 +44099,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "32f94d01dae224255a65d8af8bb989cfecb4e15f"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 29,
     "tinting_status": "Pending",
