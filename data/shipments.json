@@ -21059,7 +21059,7 @@
     "company": "ADMIN",
     "created_at": "2026-05-18 06:11:48",
     "updated_at": "2026-05-18 06:11:48",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
