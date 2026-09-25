@@ -46193,11 +46193,11 @@
     "dn": "9109740988",
     "customer_name": "HHA ASSOCIATES SDN BHD",
     "customer_phone": "TBA",
-    "origin": "",
+    "origin": "Labuan",
     "destination": "Labuan",
     "etd": "2026-09-25",
     "eta": "2026-09-25",
-    "eta_customer": "",
+    "eta_customer": "2026-09-26",
     "actual": "2026-09-25",
     "transporter": "NEPTUNE",
     "delivery_status": "Pending",
@@ -46212,7 +46212,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-25 02:08:44",
-    "updated_at": "2026-09-25 02:08:44",
+    "updated_at": "2026-09-25 02:09:07",
     "created_by": "neptune",
     "updated_by": "neptune"
   }
