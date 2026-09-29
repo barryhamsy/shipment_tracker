@@ -47008,6 +47008,11 @@
         "slot": 1,
         "ext": "jpeg",
         "sha": "edc074e1c754b9c3a23acde6c2d3ec6702ff1316"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "49c3b4907ad9d8536bf073d11f30a81976e444e9"
       }
     ],
     "chromascan": true,
