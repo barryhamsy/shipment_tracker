@@ -47310,6 +47310,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "20bb78e8800a4e6ca43f4069955ccee7f70923f4"
+      },
+      {
+        "slot": 2,
+        "ext": "jpeg",
+        "sha": "f69c07b6ebd6a55beb337e1893aa2498d02b0ba1"
       }
     ],
     "chromascan": false,
