@@ -47300,9 +47300,9 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 120.0,
-    "remark": "",
+    "remark": "Transport Qian Fung",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -47323,9 +47323,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-30 01:44:11",
-    "updated_at": "2026-09-30 06:44:05",
+    "updated_at": "2026-10-02 01:18:58",
     "created_by": "irene",
-    "updated_by": "benedict"
+    "updated_by": "irene"
   },
   {
     "id": 2591,
