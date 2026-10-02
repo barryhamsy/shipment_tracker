@@ -38160,7 +38160,7 @@
     "company": "ADMIN",
     "created_at": "2026-08-21 06:07:47",
     "updated_at": "2026-08-21 06:07:47",
-    "has_pod": false,
+    "has_pod": true,
     "photos": []
   },
   {
