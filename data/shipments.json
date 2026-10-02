@@ -47050,9 +47050,9 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 500.0,
-    "remark": "",
+    "remark": "Atdunia - Casmil",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -47068,9 +47068,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-29 00:30:38",
-    "updated_at": "2026-09-29 01:42:59",
+    "updated_at": "2026-10-02 01:40:33",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2584,
