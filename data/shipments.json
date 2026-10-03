@@ -48043,7 +48043,7 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "In Transit",
+    "delivery_status": "Delivered",
     "volume_liter": 120.0,
     "remark": "ATDunia - Justine",
     "company": "ATDUNIA",
@@ -48066,7 +48066,7 @@
     "tinting_started_at": "2026-10-02 02:59:57",
     "tinting_completed_at": "2026-10-02 03:01:00",
     "created_at": "2026-10-01 09:15:20",
-    "updated_at": "2026-10-03 02:28:45",
+    "updated_at": "2026-10-03 02:29:54",
     "created_by": "irene",
     "updated_by": "atdriver"
   },
