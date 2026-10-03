@@ -46129,7 +46129,7 @@
     "volume_liter": 440.0,
     "remark": "Transport AHD",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
