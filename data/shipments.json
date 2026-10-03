@@ -48053,6 +48053,11 @@
         "slot": 1,
         "ext": "jpeg",
         "sha": "c3b551e3debcf07b97a0094525aebd3a03fe82c4"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "b2a9ad1d33b94bf7d7b8e67ea889cd4436bdd32c"
       }
     ],
     "chromascan": true,
