@@ -48038,9 +48038,9 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 120.0,
-    "remark": "",
+    "remark": "ATDunia - Justine",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -48056,9 +48056,9 @@
     "tinting_started_at": "2026-10-02 02:59:57",
     "tinting_completed_at": "2026-10-02 03:01:00",
     "created_at": "2026-10-01 09:15:20",
-    "updated_at": "2026-10-02 03:01:37",
+    "updated_at": "2026-10-03 00:52:04",
     "created_by": "irene",
-    "updated_by": "benedict"
+    "updated_by": "irene"
   },
   {
     "id": 2612,
