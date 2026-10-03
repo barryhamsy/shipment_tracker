@@ -3018,11 +3018,11 @@
     "dn": "9109627275",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "fulfilled",
     "created_at": "2026-09-29 08:19:32",
-    "updated_at": "2026-09-29 08:19:32",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-03 02:43:37",
+    "closed_at": "2026-10-03 02:43:37",
+    "closed_by": "system (POD uploaded)"
   },
   {
     "id": 519,
