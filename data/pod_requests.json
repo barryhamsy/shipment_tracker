@@ -4,187 +4,187 @@
     "dn": "9103109969",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-11-12 06:39:34",
-    "updated_at": "2025-11-12 06:39:34",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 14,
     "dn": "9103111204",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-11-13 04:39:02",
-    "updated_at": "2025-11-13 04:39:02",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 15,
     "dn": "9103124427",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-11-13 06:56:08",
-    "updated_at": "2025-11-13 06:56:08",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 48,
     "dn": "9103451620",
     "transporter": "ADMIN",
     "requested_by": "ADMIN",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-11-20 02:21:17",
-    "updated_at": "2025-11-20 02:21:17",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 57,
     "dn": "9102458891",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-11-25 13:28:05",
-    "updated_at": "2025-11-25 13:28:05",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 61,
     "dn": "9103149180",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-11-25 13:31:43",
-    "updated_at": "2025-11-25 13:31:43",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 74,
     "dn": "9101083016",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-02 05:40:03",
-    "updated_at": "2025-12-02 05:40:03",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 80,
     "dn": "9103746671",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-04 02:06:27",
-    "updated_at": "2025-12-04 02:06:27",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 90,
     "dn": "9103589802",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-11 09:27:27",
-    "updated_at": "2025-12-11 09:27:27",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 105,
     "dn": "9103704774",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-19 02:50:52",
-    "updated_at": "2025-12-19 02:50:52",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 108,
     "dn": "9103080722",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-22 01:33:18",
-    "updated_at": "2025-12-22 01:33:18",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 109,
     "dn": "9103124429",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-22 01:51:42",
-    "updated_at": "2025-12-22 01:51:42",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 114,
     "dn": "9103124430",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-22 02:30:30",
-    "updated_at": "2025-12-22 02:30:30",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 146,
     "dn": "9103324919",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2025-12-23 06:49:53",
-    "updated_at": "2025-12-23 06:49:53",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 169,
     "dn": "9103182631",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-01-14 05:40:03",
-    "updated_at": "2026-01-14 05:40:03",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 175,
     "dn": "9102973963",
     "transporter": "AT DUNIA",
     "requested_by": "ATDUNIA",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-01-15 07:23:11",
-    "updated_at": "2026-01-15 07:23:11",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 182,
     "dn": "9103432633",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-03 13:48:26",
-    "updated_at": "2026-02-03 13:48:26",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 184,
@@ -202,22 +202,22 @@
     "dn": "9104241787",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-05 08:43:22",
-    "updated_at": "2026-02-05 08:43:22",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 186,
     "dn": "9104098171",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-05 15:13:57",
-    "updated_at": "2026-02-05 15:13:57",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 187,
@@ -235,66 +235,66 @@
     "dn": "9104190361",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-06 04:08:17",
-    "updated_at": "2026-02-06 04:08:17",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 189,
     "dn": "9102339923",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-06 07:38:31",
-    "updated_at": "2026-02-06 07:38:31",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 190,
     "dn": "9102977092",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-06 07:38:44",
-    "updated_at": "2026-02-06 07:38:44",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 191,
     "dn": "9102332422",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-06 07:38:54",
-    "updated_at": "2026-02-06 07:38:54",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 192,
     "dn": "9103082339",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-06 07:39:13",
-    "updated_at": "2026-02-06 07:39:13",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 193,
     "dn": "9103104424",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-06 07:39:22",
-    "updated_at": "2026-02-06 07:39:22",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 194,
@@ -312,66 +312,66 @@
     "dn": "9103968641",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-12 01:09:05",
-    "updated_at": "2026-02-12 01:09:05",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 196,
     "dn": "9103986851",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-12 01:41:16",
-    "updated_at": "2026-02-12 01:41:16",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 197,
     "dn": "9104098172",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-12 04:28:58",
-    "updated_at": "2026-02-12 04:28:58",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 198,
     "dn": "9104098173",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-12 07:11:45",
-    "updated_at": "2026-02-12 07:11:45",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 199,
     "dn": "9104236348",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-12 14:04:43",
-    "updated_at": "2026-02-12 14:04:43",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 200,
     "dn": "9104236347",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-12 14:11:10",
-    "updated_at": "2026-02-12 14:11:10",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 201,
@@ -499,11 +499,11 @@
     "dn": "9104986948",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-20 02:15:56",
-    "updated_at": "2026-02-20 02:15:56",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 213,
@@ -521,11 +521,11 @@
     "dn": "9105033935",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-02-20 02:20:06",
-    "updated_at": "2026-02-20 02:20:06",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 215,
@@ -1445,11 +1445,11 @@
     "dn": "9102337699",
     "transporter": "ADMIN",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-04-01 09:00:13",
-    "updated_at": "2026-04-01 09:00:13",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 309,
@@ -1599,11 +1599,11 @@
     "dn": "9106098545",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-04-20 03:49:49",
-    "updated_at": "2026-04-20 03:49:49",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 332,
@@ -2798,11 +2798,11 @@
     "dn": "9107976702",
     "transporter": "AT DUNIA",
     "requested_by": "AKZONOBEL",
-    "status": "open",
+    "status": "dismissed",
     "created_at": "2026-07-22 15:41:54",
-    "updated_at": "2026-07-22 15:41:54",
-    "closed_at": null,
-    "closed_by": null
+    "updated_at": "2026-10-05 16:51:13",
+    "closed_at": "2026-10-05 16:51:13",
+    "closed_by": "system (bulk close: 2025 through Aug 2026)"
   },
   {
     "id": 482,
