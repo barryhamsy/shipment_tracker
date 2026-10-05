@@ -46120,7 +46120,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Sandakan",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -46143,9 +46143,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-25 00:23:26",
-    "updated_at": "2026-10-02 01:36:26",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2558,
@@ -46745,7 +46745,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Sibu",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -46768,9 +46768,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-28 00:29:26",
-    "updated_at": "2026-10-02 01:19:28",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2576,
@@ -47005,7 +47005,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Brunei",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47033,9 +47033,9 @@
     "tinting_started_at": "2026-09-29 03:44:12",
     "tinting_completed_at": "2026-09-29 03:44:17",
     "created_at": "2026-09-28 10:00:54",
-    "updated_at": "2026-10-02 01:20:07",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2583,
@@ -47295,7 +47295,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Sibu",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47323,9 +47323,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-09-30 01:44:11",
-    "updated_at": "2026-10-02 01:18:58",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2591,
@@ -47754,7 +47754,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47777,9 +47777,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-01 00:50:40",
-    "updated_at": "2026-10-02 03:32:47",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2604,
@@ -47789,7 +47789,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Miri",
-    "etd": "",
+    "etd": "2026-10-03",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47822,9 +47822,9 @@
     "tinting_started_at": "2026-10-01 06:11:32",
     "tinting_completed_at": "2026-10-01 06:11:36",
     "created_at": "2026-10-01 00:51:33",
-    "updated_at": "2026-10-03 01:23:53",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "atdriver"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2605,
@@ -47834,7 +47834,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47857,9 +47857,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-01 02:01:25",
-    "updated_at": "2026-10-02 03:33:51",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2606,
@@ -47869,7 +47869,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47892,9 +47892,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-01 02:03:06",
-    "updated_at": "2026-10-02 03:36:28",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2607,
@@ -47904,7 +47904,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47927,9 +47927,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-01 02:03:42",
-    "updated_at": "2026-10-02 03:36:52",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2608,
@@ -47939,7 +47939,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-10-02",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -47962,9 +47962,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-01 02:04:08",
-    "updated_at": "2026-10-02 03:37:22",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2609,
@@ -48009,7 +48009,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Miri",
-    "etd": "",
+    "etd": "2026-10-03",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -48037,9 +48037,9 @@
     "tinting_started_at": "2026-10-03 00:55:15",
     "tinting_completed_at": "2026-10-03 00:55:18",
     "created_at": "2026-10-01 09:14:35",
-    "updated_at": "2026-10-03 02:30:25",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "atdriver"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2611,
@@ -48049,7 +48049,7 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Miri",
-    "etd": "",
+    "etd": "2026-10-03",
     "eta": "",
     "eta_customer": "",
     "actual": "",
@@ -48077,9 +48077,9 @@
     "tinting_started_at": "2026-10-02 02:59:57",
     "tinting_completed_at": "2026-10-02 03:01:00",
     "created_at": "2026-10-01 09:15:20",
-    "updated_at": "2026-10-03 02:29:54",
+    "updated_at": "2026-10-05 17:18:44",
     "created_by": "irene",
-    "updated_by": "atdriver"
+    "updated_by": "system (ETD backfill from history)"
   },
   {
     "id": 2612,
