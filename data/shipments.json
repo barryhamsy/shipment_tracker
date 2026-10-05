@@ -47014,7 +47014,7 @@
     "volume_liter": 670.0,
     "remark": "transport Sealane",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
