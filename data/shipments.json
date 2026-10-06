@@ -48173,14 +48173,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Bintulu",
-    "etd": "",
+    "etd": "2026-10-06",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-08",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 1400.0,
-    "remark": "",
+    "remark": "ATDunia - Emy",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -48196,9 +48196,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-02 02:57:47",
-    "updated_at": "2026-10-02 07:23:26",
+    "updated_at": "2026-10-06 08:09:35",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2616,
