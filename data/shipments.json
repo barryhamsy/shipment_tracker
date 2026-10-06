@@ -23226,27 +23226,6 @@
     "photos": []
   },
   {
-    "id": 1579,
-    "so": "1045777328",
-    "dn": "9106876587",
-    "customer_name": "M.O.P.S SDN BHD",
-    "customer_phone": "6733347335",
-    "origin": "Miri",
-    "destination": "Brunei",
-    "etd": "2026-05-25",
-    "eta": "2026-05-26",
-    "eta_customer": "2026-05-27",
-    "actual": "2026-05-27",
-    "transporter": "NEPTUNE",
-    "delivery_status": "Pending",
-    "volume_liter": 20.0,
-    "company": "ADMIN",
-    "created_at": "2026-06-08 03:41:06",
-    "updated_at": "2026-06-08 03:41:06",
-    "has_pod": false,
-    "photos": []
-  },
-  {
     "id": 1580,
     "so": "1045762525",
     "dn": "9107118697",
