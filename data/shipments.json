@@ -47920,12 +47920,12 @@
     "destination": "Kuching",
     "etd": "2026-10-02",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-07",
     "actual": "",
     "transporter": "AT DUNIA",
     "delivery_status": "In Transit",
     "volume_liter": 10.0,
-    "remark": "HEXAGON",
+    "remark": "ATDunia - Emy",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -47941,9 +47941,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-01 02:04:08",
-    "updated_at": "2026-10-05 17:18:44",
+    "updated_at": "2026-10-06 08:17:33",
     "created_by": "irene",
-    "updated_by": "system (ETD backfill from history)"
+    "updated_by": "irene"
   },
   {
     "id": 2609,
