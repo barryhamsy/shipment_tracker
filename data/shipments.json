@@ -48875,14 +48875,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Brunei",
-    "etd": "",
+    "etd": "2026-10-07",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-09",
     "actual": "2026-10-06",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 1900.0,
-    "remark": "",
+    "remark": "ATDunia - Bili",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -48898,9 +48898,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-06 03:35:55",
-    "updated_at": "2026-10-06 07:13:29",
+    "updated_at": "2026-10-07 06:14:38",
     "created_by": "irene",
-    "updated_by": "benedict"
+    "updated_by": "irene"
   },
   {
     "id": 2636,
