@@ -49013,7 +49013,7 @@
     "dn": "9109941982",
     "customer_name": "TUONG AIK (KUCHING) SDN BHD",
     "customer_phone": "",
-    "origin": "Labuan",
+    "origin": "Miri",
     "destination": "Kuching",
     "etd": "",
     "eta": "",
@@ -49038,7 +49038,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-06 05:44:48",
-    "updated_at": "2026-10-06 08:36:33",
+    "updated_at": "2026-10-07 08:52:34",
     "created_by": "irene",
     "updated_by": "irene"
   },
