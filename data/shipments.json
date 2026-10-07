@@ -49373,14 +49373,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-10-07",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-12",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 18.85,
-    "remark": "",
+    "remark": "Jet Cargo",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -49396,9 +49396,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-07 00:19:29",
-    "updated_at": "2026-10-07 02:45:33",
+    "updated_at": "2026-10-07 08:54:33",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2650,
