@@ -46733,7 +46733,7 @@
     "volume_liter": 40.0,
     "remark": "Transport Qian Fung",
     "company": "ATDUNIA",
-    "has_pod": true,
+    "has_pod": false,
     "photos": [
       {
         "slot": 1,
