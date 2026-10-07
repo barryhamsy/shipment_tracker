@@ -49153,7 +49153,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "3893f7506e5eff14e5af49ab8ebe199c7fa89a64"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 11,
     "tinting_status": "Completed",
