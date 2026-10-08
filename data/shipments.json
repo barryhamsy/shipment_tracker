@@ -49382,7 +49382,7 @@
     "volume_liter": 18.85,
     "remark": "Jet Cargo",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
