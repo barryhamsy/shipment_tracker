@@ -48884,7 +48884,7 @@
     "volume_liter": 1900.0,
     "remark": "ATDunia - Bili",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
