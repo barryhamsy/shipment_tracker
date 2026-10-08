@@ -48840,14 +48840,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Sibu",
-    "etd": "",
+    "etd": "2026-10-08",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-13",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 1580.0,
-    "remark": "",
+    "remark": "Qian Fung - SK8223E",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -48863,9 +48863,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-06 02:39:44",
-    "updated_at": "2026-10-06 07:05:24",
+    "updated_at": "2026-10-08 08:03:47",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2635,
