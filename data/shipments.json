@@ -47857,7 +47857,7 @@
     "volume_liter": 272.7,
     "remark": "ATDunia - Emy",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
