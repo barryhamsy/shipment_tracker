@@ -49999,6 +49999,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "b69d80f9a329cd2e3d523f6118b9477e441f6cac"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "a66fa84a4bcca0c59f83399de6a5b0b7acb33a60"
       }
     ],
     "chromascan": true,
