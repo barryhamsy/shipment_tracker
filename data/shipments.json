@@ -49200,14 +49200,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Bintulu",
-    "etd": "",
+    "etd": "2026-10-09",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-11",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 20.0,
-    "remark": "",
+    "remark": "ATDunia - Justine",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -49228,9 +49228,9 @@
     "tinting_started_at": "2026-10-07 00:50:04",
     "tinting_completed_at": "2026-10-07 00:50:30",
     "created_at": "2026-10-06 05:47:41",
-    "updated_at": "2026-10-07 00:56:59",
+    "updated_at": "2026-10-09 03:50:13",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2645,
