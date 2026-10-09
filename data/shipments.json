@@ -49180,6 +49180,11 @@
         "slot": 2,
         "ext": "jpg",
         "sha": "7acc73da721f109365b91bf826d8694cbb3478b6"
+      },
+      {
+        "slot": 3,
+        "ext": "jpg",
+        "sha": "36856d8ba9ebad078a406d0e72e80fbe1c038033"
       }
     ],
     "chromascan": true,
