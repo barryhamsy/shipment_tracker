@@ -49718,7 +49718,13 @@
     "remark": "",
     "company": "NEPTUNE",
     "has_pod": true,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "a23167b99ab437eb1f5aa1db1619238804dc7acb"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 17,
     "tinting_status": "Pending",
