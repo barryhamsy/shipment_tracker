@@ -50081,14 +50081,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Brunei",
-    "etd": "",
+    "etd": "2026-10-13",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-15",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 350.0,
-    "remark": "",
+    "remark": "Brunei Transport",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -50104,9 +50104,9 @@
     "tinting_started_at": "2026-10-09 08:11:31",
     "tinting_completed_at": "2026-10-09 08:11:36",
     "created_at": "2026-10-09 02:10:52",
-    "updated_at": "2026-10-09 08:12:16",
+    "updated_at": "2026-10-13 08:19:17",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2670,
