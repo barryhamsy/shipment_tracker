@@ -50616,7 +50616,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "2fe5ea47ffa0c01d9652c3cd37ccd1a844ccfde7"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 12,
     "tinting_status": "Pending",
