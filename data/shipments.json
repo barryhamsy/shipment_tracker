@@ -49941,9 +49941,9 @@
     "eta_customer": "2026-10-11",
     "actual": "2026-10-08",
     "transporter": "AT DUNIA",
-    "delivery_status": "Loaded to Truck",
+    "delivery_status": "In Transit",
     "volume_liter": 30.0,
-    "remark": "ATDunia - Justine",
+    "remark": "ATDunia - Casmil",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -49959,7 +49959,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-08 05:06:53",
-    "updated_at": "2026-10-09 03:50:30",
+    "updated_at": "2026-10-13 00:22:03",
     "created_by": "irene",
     "updated_by": "irene"
   },
