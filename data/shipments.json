@@ -49945,7 +49945,7 @@
     "volume_liter": 30.0,
     "remark": "ATDunia - Casmil",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
