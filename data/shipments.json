@@ -50341,7 +50341,7 @@
     "eta_customer": "2026-10-18",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "In Transit",
+    "delivery_status": "Delivered",
     "volume_liter": 150.0,
     "remark": "ATDunia - Jaman",
     "company": "ATDUNIA",
@@ -50364,9 +50364,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-12 01:31:32",
-    "updated_at": "2026-10-13 00:29:07",
+    "updated_at": "2026-10-14 23:51:20",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "atdriver"
   },
   {
     "id": 2677,
