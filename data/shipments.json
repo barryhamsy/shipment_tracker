@@ -51178,6 +51178,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "b9bd445cf81d2b22de01af80942473cdea97527b"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "b9bd445cf81d2b22de01af80942473cdea97527b"
       }
     ],
     "chromascan": false,
