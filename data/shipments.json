@@ -49910,7 +49910,7 @@
     "volume_liter": 51.0,
     "remark": "ATDunia - Wan",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
