@@ -51183,6 +51183,11 @@
         "slot": 2,
         "ext": "jpg",
         "sha": "b9bd445cf81d2b22de01af80942473cdea97527b"
+      },
+      {
+        "slot": 3,
+        "ext": "jpg",
+        "sha": "386581675aaaa4cab0529a75acff5fae97a1e36f"
       }
     ],
     "chromascan": false,
