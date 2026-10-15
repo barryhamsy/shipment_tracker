@@ -50820,14 +50820,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-10-15",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-20",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 825.0,
-    "remark": "",
+    "remark": "ATDunia - Emy",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -50843,9 +50843,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-14 05:32:40",
-    "updated_at": "2026-10-14 06:55:53",
+    "updated_at": "2026-10-15 07:01:00",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2690,
