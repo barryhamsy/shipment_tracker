@@ -51181,7 +51181,7 @@
     "eta_customer": "2026-10-17",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Loaded to Truck",
+    "delivery_status": "Delivered",
     "volume_liter": 40.0,
     "remark": "ATDunia - Emy",
     "company": "ATDUNIA",
@@ -51199,7 +51199,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-15 01:11:06",
-    "updated_at": "2026-10-15 07:03:46",
+    "updated_at": "2026-10-16 01:11:49",
     "created_by": "irene",
     "updated_by": "irene"
   }
