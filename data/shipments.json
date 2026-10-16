@@ -51250,7 +51250,13 @@
     "remark": "",
     "company": "NEPTUNE",
     "has_pod": true,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "c7f2fed20c2afbd75679b377e25b5818e44d6f68"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 44,
     "tinting_status": "Pending",
