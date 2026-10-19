@@ -50317,7 +50317,7 @@
     "volume_liter": 159.4,
     "remark": "ATDunia - Jaman",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
