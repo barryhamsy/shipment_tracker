@@ -51150,7 +51150,7 @@
     "volume_liter": 5.0,
     "remark": "ATDunia - Emy",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
