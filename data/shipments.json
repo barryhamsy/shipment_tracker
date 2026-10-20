@@ -51700,6 +51700,11 @@
         "slot": 2,
         "ext": "jpg",
         "sha": "70f5e26fe4a5ddc8069cc00afced622d5e6afd17"
+      },
+      {
+        "slot": 3,
+        "ext": "jpg",
+        "sha": "c5fd5735f94cf11bf6d77ca681e9dde0d001a9c1"
       }
     ],
     "chromascan": false,
