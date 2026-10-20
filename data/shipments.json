@@ -52123,9 +52123,9 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Delivered",
     "volume_liter": 400.0,
-    "remark": "",
+    "remark": "ATDunia - Bili",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -52141,9 +52141,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-20 02:52:08",
-    "updated_at": "2026-10-20 06:21:30",
+    "updated_at": "2026-10-20 08:18:36",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2726,
