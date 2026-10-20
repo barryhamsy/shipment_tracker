@@ -52188,14 +52188,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Labuan",
-    "etd": "",
+    "etd": "2026-10-20",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-27",
     "actual": "2026-10-20",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 380.0,
-    "remark": "",
+    "remark": "TD CARGO",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -52211,9 +52211,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-20 03:46:37",
-    "updated_at": "2026-10-20 05:52:05",
+    "updated_at": "2026-10-20 08:15:09",
     "created_by": "irene",
-    "updated_by": "benedict"
+    "updated_by": "irene"
   },
   {
     "id": 2728,
