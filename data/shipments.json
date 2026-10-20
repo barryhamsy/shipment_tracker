@@ -49101,7 +49101,7 @@
     "volume_liter": 150.0,
     "remark": "Qian Fung - SK8223E",
     "company": "ATDUNIA",
-    "has_pod": true,
+    "has_pod": false,
     "photos": [
       {
         "slot": 1,
