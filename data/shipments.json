@@ -52383,7 +52383,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "3a434121aaa1a7f92c17c0f88e3696501e098c92"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 25,
     "tinting_status": "Completed",
