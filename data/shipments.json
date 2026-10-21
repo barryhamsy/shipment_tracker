@@ -51775,7 +51775,7 @@
     "eta_customer": "2026-10-23",
     "actual": "2026-10-20",
     "transporter": "AT DUNIA",
-    "delivery_status": "In Transit",
+    "delivery_status": "Delivered",
     "volume_liter": 240.0,
     "remark": "Sealane",
     "company": "ATDUNIA",
@@ -51793,9 +51793,9 @@
     "tinting_started_at": "2026-10-20 02:19:42",
     "tinting_completed_at": "2026-10-20 02:19:57",
     "created_at": "2026-10-19 06:09:04",
-    "updated_at": "2026-10-21 09:12:14",
+    "updated_at": "2026-10-21 23:53:16",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "atdriver"
   },
   {
     "id": 2716,
