@@ -52424,13 +52424,7 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [
-      {
-        "slot": 1,
-        "ext": "jpg",
-        "sha": "b5821ef06aead92835f4afe471f83f96d68b9d39"
-      }
-    ],
+    "photos": [],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
