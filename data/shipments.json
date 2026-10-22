@@ -52446,6 +52446,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "a94da614fbc7f29912e8d330115a70901e3aed8a"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "99a804b93950c707429c365732cc2f97e88b246e"
       }
     ],
     "chromascan": false,
