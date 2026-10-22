@@ -52740,7 +52740,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "4d6650dce83dafdd742143e567ba96e4ffdc5823"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 10,
     "tinting_status": "Completed",
