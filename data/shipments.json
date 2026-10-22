@@ -52006,7 +52006,7 @@
     "eta_customer": "2026-10-23",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Loaded to Truck",
+    "delivery_status": "Delivered",
     "volume_liter": 1100.0,
     "remark": "AT Dunia - Jaman QAT3000",
     "company": "ATDUNIA",
@@ -52034,9 +52034,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-20 01:22:43",
-    "updated_at": "2026-10-21 09:13:28",
+    "updated_at": "2026-10-22 06:14:18",
     "created_by": "irene",
-    "updated_by": "irene"
+    "updated_by": "atdriver"
   },
   {
     "id": 2722,
