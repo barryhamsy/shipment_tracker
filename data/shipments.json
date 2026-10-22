@@ -52676,14 +52676,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Labuan",
-    "etd": "",
+    "etd": "2026-10-22",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-10-29",
     "actual": "2026-10-22",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 100.0,
-    "remark": "",
+    "remark": "AT Dunia - Jaman",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -52699,9 +52699,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-21 08:33:35",
-    "updated_at": "2026-10-22 01:37:38",
+    "updated_at": "2026-10-22 08:49:22",
     "created_by": "irene",
-    "updated_by": "benedict"
+    "updated_by": "irene"
   },
   {
     "id": 2740,
