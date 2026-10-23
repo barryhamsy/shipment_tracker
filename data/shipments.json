@@ -52010,7 +52010,7 @@
     "volume_liter": 1100.0,
     "remark": "AT Dunia - Jaman QAT3000",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
