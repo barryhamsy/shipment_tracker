@@ -52566,7 +52566,7 @@
     "eta_customer": "2026-10-24",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Loaded to Truck",
+    "delivery_status": "Delivered",
     "volume_liter": 70.0,
     "remark": "AT Dunie - Justine",
     "company": "ATDUNIA",
@@ -52589,7 +52589,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-21 03:28:21",
-    "updated_at": "2026-10-22 08:45:46",
+    "updated_at": "2026-10-23 03:19:22",
     "created_by": "irene",
     "updated_by": "irene"
   },
