@@ -52340,7 +52340,7 @@
     "volume_liter": 564.0,
     "remark": "AT Dunie - Justine",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
