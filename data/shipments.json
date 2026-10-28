@@ -53441,14 +53441,14 @@
     "customer_phone": "013-8387161",
     "origin": "Miri",
     "destination": "Sibu",
-    "etd": "",
+    "etd": "2026-10-28",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-02",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 200.0,
-    "remark": "",
+    "remark": "Qian Fung",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -53464,9 +53464,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-26 02:38:07",
-    "updated_at": "2026-10-26 03:09:47",
+    "updated_at": "2026-10-28 08:21:58",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2761,
