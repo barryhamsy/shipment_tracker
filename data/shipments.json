@@ -53130,7 +53130,7 @@
     "volume_liter": 100.0,
     "remark": "",
     "company": "ATDUNIA",
-    "has_pod": true,
+    "has_pod": false,
     "photos": [
       {
         "slot": 1,
