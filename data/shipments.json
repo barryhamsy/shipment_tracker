@@ -53729,7 +53729,7 @@
     "etd": "",
     "eta": "",
     "eta_customer": "",
-    "actual": "2026-10-29",
+    "actual": "",
     "transporter": "AT DUNIA",
     "delivery_status": "Packing",
     "volume_liter": 3.12,
@@ -53749,7 +53749,7 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-29 01:10:46",
-    "updated_at": "2026-10-29 02:37:47",
+    "updated_at": "2026-10-29 02:37:59",
     "created_by": "irene",
     "updated_by": "benedict"
   },
