@@ -53090,7 +53090,7 @@
     "volume_liter": 165.44,
     "remark": "",
     "company": "ATDUNIA",
-    "has_pod": true,
+    "has_pod": false,
     "photos": [
       {
         "slot": 1,
