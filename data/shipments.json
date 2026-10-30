@@ -53450,7 +53450,7 @@
     "volume_liter": 200.0,
     "remark": "Qian Fung",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
