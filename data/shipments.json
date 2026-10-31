@@ -53831,14 +53831,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Sibu",
-    "etd": "",
+    "etd": "2026-10-31",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-05",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "In Transit",
     "volume_liter": 950.0,
-    "remark": "",
+    "remark": "Qian Fung",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -53859,9 +53859,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-29 08:54:23",
-    "updated_at": "2026-10-30 01:53:30",
+    "updated_at": "2026-10-31 02:06:31",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2772,
