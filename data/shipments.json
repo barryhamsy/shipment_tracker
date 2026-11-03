@@ -53916,9 +53916,9 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Delivered",
     "volume_liter": 5000.0,
-    "remark": "",
+    "remark": "AT Dunia - Aquino",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -53939,9 +53939,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-10-31 00:56:14",
-    "updated_at": "2026-10-31 06:49:12",
+    "updated_at": "2026-11-03 06:34:13",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2774,
