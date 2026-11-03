@@ -54513,7 +54513,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "35619a4795bb694d873138cbedee547f17fb795d"
+      }
+    ],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
