@@ -54021,14 +54021,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-11-04",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-09",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 100.0,
-    "remark": "",
+    "remark": "AT Dunia - Casmil",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -54044,9 +54044,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-02 01:50:10",
-    "updated_at": "2026-11-02 02:56:12",
+    "updated_at": "2026-11-04 03:55:28",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2777,
