@@ -53920,7 +53920,7 @@
     "volume_liter": 5000.0,
     "remark": "AT Dunia - Aquino",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
