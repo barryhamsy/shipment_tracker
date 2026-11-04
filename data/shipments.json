@@ -54140,7 +54140,7 @@
     "volume_liter": 850.0,
     "remark": "AHD",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
