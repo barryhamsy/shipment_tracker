@@ -54209,7 +54209,7 @@
     "volume_liter": 4080.0,
     "remark": "AT Dunia - Casmil",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
