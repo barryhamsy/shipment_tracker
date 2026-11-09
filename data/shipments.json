@@ -54878,6 +54878,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "9e0f6a750f82bc450a49079bfc03264dd66a3a03"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "7ab61a9d4820dcd0a0cd431f5cb556ff895fc58e"
       }
     ],
     "chromascan": false,
