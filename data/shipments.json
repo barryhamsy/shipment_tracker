@@ -53735,7 +53735,7 @@
     "volume_liter": 3.12,
     "remark": "TD Cargo",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
