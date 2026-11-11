@@ -55318,6 +55318,16 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "f43867932983a62e77cc780c4a6bea060465ecd8"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "fd131127c09acd1fe61fa1ff6736759d8de2a37a"
+      },
+      {
+        "slot": 3,
+        "ext": "jpg",
+        "sha": "3ce5eedd48fb8881fd2306378a85083bd237fbf7"
       }
     ],
     "chromascan": false,
