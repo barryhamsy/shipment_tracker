@@ -55123,14 +55123,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-11-12",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-17",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 600.0,
-    "remark": "",
+    "remark": "AT Dunia - Wan",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -55151,9 +55151,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-10 00:54:53",
-    "updated_at": "2026-11-10 03:50:14",
+    "updated_at": "2026-11-12 06:48:15",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2808,
