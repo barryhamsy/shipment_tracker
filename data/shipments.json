@@ -55678,6 +55678,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "a5b9a859381f5322dd4da6e14889dce20437bfda"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "c1af2b043315f04094191e785c61f4257fa84409"
       }
     ],
     "chromascan": false,
