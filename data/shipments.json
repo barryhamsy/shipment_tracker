@@ -54953,9 +54953,9 @@
     "eta_customer": "",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Delivered",
     "volume_liter": 780.0,
-    "remark": "",
+    "remark": "AT Dunia - Jaman",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -54971,9 +54971,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-06 03:29:16",
-    "updated_at": "2026-11-06 07:38:02",
+    "updated_at": "2026-11-12 03:47:39",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2803,
