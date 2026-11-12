@@ -55418,14 +55418,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Sibu",
-    "etd": "",
+    "etd": "2026-11-12",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-17",
     "actual": "2026-11-11",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 100.0,
-    "remark": "",
+    "remark": "AT Dunia - Wan",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -55441,9 +55441,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-11 00:31:58",
-    "updated_at": "2026-11-11 01:44:14",
+    "updated_at": "2026-11-12 06:52:09",
     "created_by": "irene",
-    "updated_by": "benedict"
+    "updated_by": "irene"
   },
   {
     "id": 2816,
