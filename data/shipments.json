@@ -56178,6 +56178,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "26ecf1a48c7a5b41a92b8223c364a7d8b82ddcaf"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "fd4ce58cab99aad8fefc5939ff28d80f96bfaf43"
       }
     ],
     "chromascan": false,
