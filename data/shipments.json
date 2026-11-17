@@ -56603,6 +56603,11 @@
         "slot": 1,
         "ext": "jpg",
         "sha": "ccb496fe5cb8678c2b4e0204b1269f2e58590aa2"
+      },
+      {
+        "slot": 2,
+        "ext": "jpg",
+        "sha": "404687aef17d3b5058651d40f27cba02421427d6"
       }
     ],
     "chromascan": true,
