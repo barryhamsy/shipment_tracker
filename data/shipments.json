@@ -55213,7 +55213,7 @@
     "volume_liter": 60.0,
     "remark": "AT Dunia - Wan",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
