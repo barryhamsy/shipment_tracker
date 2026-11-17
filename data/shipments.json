@@ -55819,14 +55819,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Labuan",
-    "etd": "",
+    "etd": "2026-11-17",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-24",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 814.32,
-    "remark": "",
+    "remark": "AT Dunia - Jaman",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -55842,9 +55842,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-12 08:49:07",
-    "updated_at": "2026-11-13 00:41:51",
+    "updated_at": "2026-11-17 05:20:30",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2827,
