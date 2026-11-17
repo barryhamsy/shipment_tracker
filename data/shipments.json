@@ -56163,14 +56163,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-11-17",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-22",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 875.0,
-    "remark": "",
+    "remark": "AT Dunia - Casmil",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -56191,9 +56191,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-16 05:29:03",
-    "updated_at": "2026-11-16 09:56:19",
+    "updated_at": "2026-11-17 05:24:38",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2837,
