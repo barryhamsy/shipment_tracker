@@ -56353,7 +56353,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "612a1d2261f70b066da2d153d29b017d549ab1fc"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 5,
     "tinting_status": "Completed",
