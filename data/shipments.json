@@ -56553,14 +56553,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Bintulu",
-    "etd": "",
+    "etd": "2026-11-17",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-19",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 168.0,
-    "remark": "",
+    "remark": "AT Dunia - Casmil",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -56576,9 +56576,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-16 07:18:54",
-    "updated_at": "2026-11-16 09:52:10",
+    "updated_at": "2026-11-17 05:23:09",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2848,
