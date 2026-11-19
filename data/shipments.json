@@ -57032,7 +57032,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "43a793714e57acfc495437c5a5433017d9fac9f0"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 40,
     "tinting_status": "Completed",
