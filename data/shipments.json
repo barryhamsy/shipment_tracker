@@ -56684,14 +56684,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Bintulu",
-    "etd": "",
+    "etd": "2026-11-20",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-22",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 35.0,
-    "remark": "",
+    "remark": "AT Dunia - Justine",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -56707,9 +56707,9 @@
     "tinting_started_at": "2026-11-17 00:39:04",
     "tinting_completed_at": "2026-11-17 00:39:14",
     "created_at": "2026-11-16 09:24:09",
-    "updated_at": "2026-11-17 01:34:45",
+    "updated_at": "2026-11-20 00:24:56",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2851,
