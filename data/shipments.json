@@ -56987,14 +56987,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Kuching",
-    "etd": "",
+    "etd": "2026-11-20",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-25",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 150.0,
-    "remark": "",
+    "remark": "AT Dunia - Jaman",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -57010,9 +57010,9 @@
     "tinting_started_at": null,
     "tinting_completed_at": null,
     "created_at": "2026-11-18 03:21:55",
-    "updated_at": "2026-11-18 05:24:46",
+    "updated_at": "2026-11-20 05:46:09",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2860,
