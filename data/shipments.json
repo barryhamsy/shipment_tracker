@@ -56228,7 +56228,7 @@
     "volume_liter": 250.0,
     "remark": "AT Dunia - Justine",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
