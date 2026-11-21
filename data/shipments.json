@@ -56918,7 +56918,7 @@
     "volume_liter": 15.0,
     "remark": "AT Dunia - Bili",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
