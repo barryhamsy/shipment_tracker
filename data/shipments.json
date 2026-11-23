@@ -57653,7 +57653,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "315b5dba46dc38fc4faf337e810b308ae35393d9"
+      }
+    ],
     "chromascan": true,
     "tinting_pcs": 8,
     "tinting_status": "Completed",
