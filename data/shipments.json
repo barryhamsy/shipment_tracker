@@ -57678,14 +57678,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Miri",
-    "etd": "",
+    "etd": "2026-11-25",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-27",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 120.0,
-    "remark": "",
+    "remark": "AT Dunia - Parsi",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -57701,9 +57701,9 @@
     "tinting_started_at": "2026-11-24 01:03:31",
     "tinting_completed_at": "2026-11-24 01:03:37",
     "created_at": "2026-11-24 00:20:00",
-    "updated_at": "2026-11-24 01:08:51",
+    "updated_at": "2026-11-25 00:59:05",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2878,
