@@ -57687,7 +57687,7 @@
     "volume_liter": 120.0,
     "remark": "AT Dunia - Parsi",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
