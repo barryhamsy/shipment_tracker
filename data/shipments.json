@@ -57428,14 +57428,14 @@
     "customer_phone": "",
     "origin": "Miri",
     "destination": "Brunei",
-    "etd": "",
+    "etd": "2026-11-26",
     "eta": "",
-    "eta_customer": "",
+    "eta_customer": "2026-11-28",
     "actual": "",
     "transporter": "AT DUNIA",
-    "delivery_status": "Packing",
+    "delivery_status": "Loaded to Truck",
     "volume_liter": 120.0,
-    "remark": "",
+    "remark": "Sealane",
     "company": "ATDUNIA",
     "has_pod": false,
     "photos": [
@@ -57451,9 +57451,9 @@
     "tinting_started_at": "2026-11-21 07:12:34",
     "tinting_completed_at": "2026-11-21 07:12:39",
     "created_at": "2026-11-21 03:39:42",
-    "updated_at": "2026-11-21 07:13:26",
+    "updated_at": "2026-11-26 08:12:50",
     "created_by": "irene",
-    "updated_by": "carlos"
+    "updated_by": "irene"
   },
   {
     "id": 2871,
