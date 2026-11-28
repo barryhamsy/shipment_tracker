@@ -57057,7 +57057,7 @@
     "volume_liter": 2360.0,
     "remark": "AT Dunia - Jaman",
     "company": "ATDUNIA",
-    "has_pod": false,
+    "has_pod": true,
     "photos": [
       {
         "slot": 1,
