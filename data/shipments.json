@@ -58606,7 +58606,13 @@
     "remark": "",
     "company": "ATDUNIA",
     "has_pod": false,
-    "photos": [],
+    "photos": [
+      {
+        "slot": 1,
+        "ext": "jpg",
+        "sha": "5d2face8e7579da5c3cc9762d74f1b66d4baf1e7"
+      }
+    ],
     "chromascan": false,
     "tinting_pcs": null,
     "tinting_status": null,
